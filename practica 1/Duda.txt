@@ -1,0 +1,37 @@
+Como notara, hice 3 csv dado a que la longitud de los arrays fueron diferentes
+ademas de no saber como extraer los datos de interes de la siguiente parte del codigo fuente:
+
+<div class="tanks content-padding">
+          <ul>
+  <li 						//INFO DEL SHERIDAN NORMAL
+                data-id="10079"
+                data-tier="10"
+                data-nation="usa"
+                data-type="lt"
+                data-other="researchable"
+                data-search-name="sheridan~xm551sheridan"
+              > 	<---(INFO UTIL AQUI)
+                <a class="tank-name-link tank-quality--researchable" href="/en/tank/sheridan" >
+                  <i class="icon-flag
+                    tank-name-link__flag 
+                    icon-flag--small 
+                    icon-flag__canvas icon-flag__canvas--usa" title="U.S.A."
+                  ></i><span class="tank-name-link__type" title="Light tank"><i class="bh-icon lt"></i></span><span class="tank-name-link__tier" title="Tier X">X</span><span class="tank-name-link__name">Sheridan</span>
+                </a>	<---(INFO QUE PUDE SACAR)
+              </li>
+  <li 						//INFO DEL SHERIDAN DE COLECCION
+                data-id="10085"
+                data-tier="10"
+                data-nation="usa"
+                data-type="lt"
+                data-other="collectible"
+                data-search-name="sheridanmissile~xm551sheridanmissile"
+              >
+                <a class="tank-name-link tank-quality--collectible" href="/en/tank/sheridan-missile" >
+                  <i class="icon-flag
+                    tank-name-link__flag 
+                    icon-flag--small 
+                    icon-flag__canvas icon-flag__canvas--usa" title="U.S.A."
+                  ></i><span class="tank-name-link__type" title="Light tank"><i class="bh-icon lt"></i></span><span class="tank-name-link__tier" title="Tier X">X</span><span class="tank-name-link__name">Sheridan Missile</span>
+                </a>
+              </li>
