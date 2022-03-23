@@ -1,0 +1,695 @@
+,Nombre_de_T-doll,Tipo_de_Arma,Rol_de_T-doll,Tiempo_de_Produccion,Obtencion,Puntos_de_vida,Daño,Precision,Evasion,Cadencia_de_Disparo
+0,SAA,HG,Damage Echelon Buffer,00:50:00,"00:50:00
+
+Normal",80,36,49,76,47
+1,Mk46,MG,Burst,,Drop,162,78,34,36,142
+2,JS 9,SMG,Offtank,,Event,180,27,15,86,89
+3,MP-448,HG,,,Log-in Reward,64,26,62,99,60
+4,M82A1,RF,,,Event,88,158,77,30,34
+5,A-91,AR,,,Drop,113,52,50,37,75
+6,Mk 12,RF,Burst,,Drop,81,101,82,32,46
+7,Model L,AR,Sustained,,Log-in Reward,110,50,45,41,73
+8,P22,HG,"Specialist, Offtank",,"Drop, Event",70,28,66,110,62
+9,ADS,AR,"Specialist, Burst",03:55:00,"03:55:00
+
+Normal",121,50,54,45,78
+10,AK-74U,SMG,Main Tank,,Event,194,35,13,67,83
+11,Python,HG,Specialist,,Continuum Turbulence,70,40,81,82,49
+12,M870,SG,"Main Tank, Specialist",,Drop,264,33,13,12,29
+13,MP-443,HG,,,"Drop, Log-in Reward",70,33,53,71,59
+14,Ballista,RF,Burst,,Event,82,139,92,35,36
+15,Honey Badger,SMG,"Burst, Offtank",,Event,198,33,13,60,82
+16,Thunder,HG,,,Event,86,46,57,60,37
+17,RT-20,RF,Burst,,Log-in Reward,90,158,78,28,27
+18,TEC-9,HG,,,Log-in Reward,83,28,46,63,63
+19,K31,RF,Burst,04:15:00,"04:15:00
+
+Heavy, Normal",78,126,78,37,39
+20,K3,MG,Burst,,Log-in Reward,165,78,30,35,134
+21,T-CMS,RF,Sustained,,Log-in Reward,88,120,75,27,37
+22,P30,HG,Specialist,00:50:00,"00:50:00
+
+Normal",70,32,62,85,55
+23,4 Shiki,RF,"Sustained,",04:04:00,"04:04:00
+
+Normal",84,112,74,37,39
+24,R93,RF,Sustained,,Event,81,133,97,34,39
+25,HK33,AR,Sustained,,Log-in Reward,105,49,51,46,73
+26,PA-15,HG,"Specialist, Offtank",01:15:00,"01:15:00
+
+Normal",70,35,65,76,64
+27,EM-2,AR,Burst,,Normal,119,57,48,48,61
+28,X95,SMG,Offtank,,Drop,194,34,13,67,90
+29,MG36,MG,Burst,,,182,85,34,36,129
+30,Magal,AR,Sustained,,Log-in Reward,116,47,47,43,70
+31,Steyr Scout,RF,,,Log-in Reward,90,114,78,35,35
+32,HS2000,HG,Specialist,,,72,33,61,87,62
+33,UKM-2000,MG,Burst,,"Drop, Event",169,90,26,26,115
+34,Lewis Gun,MG,Sustained,,Event,190,102,31,31,116
+35,KSVK,RF,,,"Drop, Event",88,158,78,30,31
+36,QJY-88,MG,Burst,06:28:00,"06:28:00
+
+Heavy, Normal",165,86,33,35,126
+37,El Clear,HG,Specialist,,Event,66,31,62,88,61
+38,Elphelt,SG,Main Tank,,Event,275,36,13,9,28
+39,Noel Vermillion,HG,,,,60,39,60,82,65
+40,GSh-18,HG,"Burst,",,,70,33,48,86,52
+41,T77,SMG,Main Tank,,Event,185,24,11,69,92
+42,XM8,AR,Burst,03:25:00,"03:25:00
+
+Heavy, Normal",108,48,46,42,79
+43,MDR,AR,Sustained,03:53:00,"03:53:00
+
+Heavy, Normal",119,56,50,41,76
+44,SAR-21,AR,Sustained,03:25:00,"03:25:00
+
+Heavy, Normal",116,44,46,38,80
+45,Jill Stingray,HG,"Specialist,",,Event,80,30,53,96,55
+46,Px4 Storm,HG,"Specialist,",01:04:00,"01:04:00
+
+Normal",68,35,69,93,57
+47,P90,SMG,"Specialist, Main Tank",02:29:00,"02:29:00
+
+Heavy, Normal",190,30,15,83,93
+48,M1897,SG,"Oddball, DPS",07:30:00,"07:30:00
+
+Heavy",253,35,11,11,26
+49,FP-6,SG,Main Tank,08:06:00,"08:06:00
+
+Heavy",260,31,13,12,28
+50,Dana Zane,SG,Main Tank,,Event,269,38,15,13,26
+51,Alma Armas,MG,Burst,,Event,195,89,31,23,129
+52,Stella Hoshii,RF,Burst,,Event,90,117,84,36,35
+53,Dorothy Haze,SMG,"Main Tank, Offtank",,Event,176,28,15,87,79
+54,Sei Asagiri,HG,,,Event,85,30,59,77,53
+55,TAC-50,RF,,,Event,87,155,83,31,32
+56,SPR A3G,RF,,04:15:00,"04:15:00
+
+Heavy, Normal",87,130,83,31,35
+57,Jericho,HG,,00:49:00,"00:49:00
+
+Normal",76,31,50,64,60
+58,64 Shiki,AR,"Burst, Specialist",04:06:00,"04:06:00
+
+Heavy, Normal",125,67,62,43,63
+59,K11,AR,Burst,04:11:00,"04:11:00
+
+Heavy, Normal",135,53,54,37,76
+60,62 Shiki,MG,Burst,,Log-in Reward,169,87,31,28,122
+61,100 Shiki,SMG,Main Tank,02:19:00,"02:19:00
+
+Heavy, Normal",212,29,14,67,76
+62,M1014,SG,"Main Tank, Burst",07:14:00,"07:14:00
+
+Heavy",275,31,12,11,32
+63,AA-12,SG,"Main Tank, Burst",08:12:00,"08:12:00
+
+Heavy",269,30,12,11,39
+64,M200,RF,Sure Hit,04:32:00,"04:32:00
+
+Heavy, Normal",88,145,96,31,34
+65,M1895 CB,MG,"Burst,",,"Drop, Event",190,90,26,23,131
+66,K5,HG,,00:53:00,"00:53:00
+
+Normal",66,29,52,81,62
+67,Steyr ACR,AR,DPS,04:08:00,"04:08:00
+
+Normal",124,46,45,42,91
+68,AUG Para,SMG,"Main Tank, Offtank",,Dual Randomness Crate Reward,185,29,15,83,88
+69,Rex Zero 1,HG,,,Normal,70,31,56,74,61
+70,Defender,SG,"Burst, Specialist",,Drop,247,38,13,17,27
+71,QSB-91,HG,Specialist,,Log-in Reward,70,36,58,72,53
+72,VSK-94,RF,Sustained,04:43:00,"04:43:00
+
+Heavy, Normal",88,133,79,32,38
+73,GM6 Lynx,RF,Burst,,Log-in Reward,84,135,75,30,33
+74,C14,RF,Burst,,Log-in Reward,93,128,77,29,32
+75,Minos,SG,"Main Tank, Specialist",,Event,286,39,12,11,24
+76,Medusa,AR,,,Event,121,58,57,47,73
+77,Yurine,MG,,,Event,182,93,29,24,128
+78,Jashin-Chan,SMG,Offtank,,Event,204,26,13,75,81
+79,CAR,MG,,,Log-in Reward,165,93,32,29,112
+80,RPK-203,MG,1st Volley,06:16:00,"06:16:00
+
+Normal, Heavy",165,91,34,36,124
+81,PPD-40,SMG,"Support, Offtank",02:10:00,"02:10:00
+
+Normal, Heavy",185,26,13,75,88
+82,FX-05,AR,Sustained,03:40:00,"03:40:00
+
+Normal, Heavy",110,54,47,47,69
+83,AR-57,SMG,"Support, Offtank, Main Tank",02:16:00,"02:16:00
+
+Normal, Heavy",183,26,14,74,92
+84,WKp,HG,,,Login Reward,80,41,49,65,44
+85,AUG Para,SMG,,,,,,,,
+86,PM1910,MG,1st Volley,,Dual Randomness Clear 3-1 Ghost Sisters Infinity Map Drop,190,90,27,25,104
+87,Mondragon M1908,RF,Support,,Dual Ranmdoness E2-1 Pollinosis Infinity Map Drop,84,112,74,34,41
+88,VHS,AR,Sustained,,Event,116,57,54,47,78
+89,General Liu,RF,"Generalist, Support",,Dual Randomness,80,139,88,30,40
+90,Pekola,RF,,,Event,88,126,80,40,37
+91,De Lisle,RF,,05:00:00,"05:00:00
+
+Normal",102,109,87,38,37
+92,Falcon,RF,Specialist,,Log-in Reward,88,140,71,28,32
+93,Six12,SG,,,"Event, Log-in Reward",242,34,13,13,30
+94,Zas M76,RF,,,Log-in Reward,84,110,78,35,37
+95,SL8,RF,,,Event,85,120,78,39,41
+96,Agent Vector,SMG,Main Tank,,Event,185,30,11,71,101
+97,Agent 416,AR,Burst,,Event,121,51,46,44,76
+98,MAT-49,SMG,,,,185,29,14,73,88
+99,Liberator,SG,,,Heavy,231,36,12,15,30
+100,CAWS,SG,Specialist,,Heavy,247,30,12,13,35
+101,DP-12,SG,Main Tank,08:13:00,"08:13:00
+
+Heavy",252,31,13,13,30
+102,Type64,SMG,Offtank,01:25:00,"01:25:00
+
+Heavy, Normal",176,27,11,65,93
+103,ZB-26,MG,Sustained,06:26:00,"06:26:00
+
+Normal",182,100,30,31,116
+104,Triela,SG,Main Tank,,Event,253,37,12,12,26
+105,Claes,MG,Specialist,,Event,157,79,35,36,139
+106,Rico,RF,"Sustained,",,Event,80,130,80,33,37
+107,Henrietta,SMG,Main Tank,,Event,190,30,15,83,93
+108,Angelica ,AR,Burst,,Event,121,55,57,46,75
+109,C-93,HG,,01:09:00,"01:09:00
+
+Normal",63,33,62,98,64
+110,KAC-PDW,SMG,Main Tank,02:20:00,"02:20:00
+
+Heavy, Normal",180,33,14,71,81
+111,CR-21,AR,Sustained,03:35:00,"03:35:00
+
+Heavy, Normal",110,48,52,43,81
+112,SIG-556,AR,Burst,03:54:00,"03:54:00
+
+Heavy, Normal",121,53,46,45,76
+113,AK-Alfa,AR,Sustained,03:56:00,"03:56:00
+
+Normal",116,56,53,52,75
+114,Tabuk,RF,Sustained,04:25:00,"04:25:00
+
+Normal",84,115,81,36,39
+115,SVCh,RF,"Oddball, Damage/FP Self-Buffer",04:47:00,"04:47:00
+
+Normal",87,144,97,30,35
+116,Howa 89,AR,Sustained,04:08:00,"04:08:00
+
+Normal",,,,,
+117,Mas-38,SMG,,,Log-in Reward,190,26,13,72,83
+118,SUB-2000,SMG,Offtank,,Log-in Reward,194,27,13,66,84
+119,512,SG,Offtank,07:56:00,"07:56:00
+
+Heavy, Normal",256,37,15,13,31
+120,PM5,SG,Main Tank,07:11:00,"07:11:00
+
+Normal",238,34,12,15,29
+121,LTLX-7000,SG,"Main Tank, Specialist",08:17:00,"08:17:00
+ 
+Normal",275,23,14,11,28
+122,M6 ASW,SG,"Main Tank, Specialist",08:08:00,"08:08:00
+
+Heavy",260,39,15,14,28
+123,TS12,SG,Main Tank,,Log-in Reward,242,34,13,11,30
+124,StG-940,AR,Sustained,,Log-in Reward,110,50,49,44,69
+125,HP-35,HG,Night,01:35:00,"01:35:00
+
+Normal",380,31,64,89,58
+126,RPK-16,MG,"Burst, Sustained,",06:16:00,"06:16:00
+
+ Normal",165,85,37,36,129
+127,SAF,SMG,Offtank,02:10:00,"02:10:00
+
+Normal",900,25,14,69,99
+128,43M,SMG,Main Tank,,,185,30,13,56,89
+129,R5 ,AR,Sustained,,,124,55,54,46,76
+130,W - April Fools,AR,"Burst,",,Event,113,52,51,46,79
+131,Amiya - April Fools,AR,Burst,,Event,113,50,50,50,80
+132,Exusai-April Fools,SMG,"Offtank, Burst",,Event,185,30,11,71,101
+133,CF05,SMG,Offtank,,Drop,190,26,13,73,87
+134,M82,AR,Burst,,Drop,113,51,45,46,75
+135,Webley,HG,,,Event,86,29,66,81,57
+136,AK-15,AR,Burst,04:15:00,"04:15:00
+
+Normal",110,58,52,51,77
+137,C-MS,SMG,Main Tank,02:28:00,"02:28:00
+
+Heavy,  Normal",185,32,15,75,87
+138,SRS,RF,Burst,,Event,87,135,82,35,35
+139,M1911,HG,Specialist,00:20:00,"00:20:00
+
+Normal",73,27,50,74,57
+140,Type56-1,AR,Grenadier,03:25:00,"03:25:00
+
+Heavy, Normal",138,53,35,35,69
+141,M2HB,MG,Burst,06:10:00,"06:10:00
+
+Heavy, Normal",207,102,18,16,100
+142,M1918 BAR,MG,Burst,06:25:00,"06:25:00
+
+Drop, Heavy, Normal",157,96,31,33,114
+143,SIG-510,AR,Burst,02:40:00,"02:40:00
+
+Drop, Normal",116,56,41,37,59
+144,AUG,AR,Sustained,,Event,121,55,57,46,75
+145,TAR-21,AR,Burst,03:30:00,"03:30:00
+
+Drop, Heavy, Normal",105,49,48,44,79
+146,Galil,AR,"Sustained, Oddball",02:40:00,"02:40:00
+
+Drop, Normal",105,50,44,43,66
+147,FNC,AR,"Burst, Sustained",03:20:00,"03:20:00
+
+Drop, Heavy, Normal",110,51,46,37,73
+148,FAMAS,AR,Burst,03:30:00,"03:30:00
+
+Drop, Heavy, Normal",121,44,48,40,81
+149,L85A1,AR,Burst,02:50:00,"02:50:00
+
+Drop, Normal",94,46,43,43,78
+150,416,AR,Burst,03:55:00,"03:55:00
+
+Drop, Heavy, Normal",121,51,46,44,76
+151,M249 SAW,MG,"Burst, Night",,Drop,157,79,35,36,139
+152,G36,AR,Sustained,03:40:00,"03:40:00
+
+Heavy, Normal",127,47,44,41,72
+153,G3,AR,,02:50:00,"02:50:00
+
+Drop, Normal",110,55,46,38,61
+154,G41,AR,"Sustained, Damage/FP Self-Buffer",04:05:00,"04:05:00
+
+Heavy, Normal",127,50,48,40,77
+155,StG44,AR,Burst,03:00:00,"03:00:00
+
+Heavy, Normal",127,53,46,36,61
+156,AS Val,AR,"Night, Burst",03:30:00,"03:30:00
+
+Drop, Heavy, Normal",132,39,46,49,75
+157,AK-47,AR,Burst,03:20:00,"03:20:00
+
+Heavy, Normal",132,53,35,34,65
+158,ST AR-15,AR,Sustained,,,105,48,50,50,77
+159,M4 SOPMOD II,AR,Grenadier,,,110,50,49,44,78
+160,M4A1,AR,Damage/FP Self-Buffer,,Completing 2-6,110,46,48,48,79
+161,M60,MG,"Burst, Night",06:10:00,"06:10:00
+
+Drop, Heavy, Normal",182,92,26,26,111
+162,M1919A4,MG,Burst,05:40:00,"05:40:00
+
+Heavy, Normal",182,96,26,22,99
+163,NTW-20,RF,,04:45:00,"04:45:00
+
+Heavy, Normal",93,165,75,29,30
+164,Type88,RF,"Night, Burst",03:50:00,"03:50:00
+
+Heavy, Normal",102,108,60,37,31
+165,G36C,SMG,Main Tank,02:30:00,"02:30:00
+
+Heavy, Normal",203,32,13,65,83
+166,UMP45,SMG,Main Tank,02:15:00,"02:15:00
+
+Drop, Heavy, Normal",185,28,13,74,82
+167,UMP40,SMG,"Sustained, Main Tank",,Heavy,180,27,14,75,85
+168,UMP9,SMG,Main Tank,02:15:00,"02:15:00
+
+Drop, Heavy, Normal",176,26,14,76,87
+169,P7,HG,,00:55:00,"00:55:00
+
+Drop, Normal",63,32,62,83,61
+170,Mk23,HG,"Night,",00:50:00,"00:50:00
+
+Drop, Normal",80,29,53,66,63
+171,SPP-1,HG,"Main Tank,",,Event,76,35,61,75,48
+172,Calico M950A,HG,,01:05:00,"01:05:00
+
+Normal",76,30,55,68,72
+173,Grizzly,HG,,01:10:00,"01:10:00
+
+Normal",86,38,51,66,54
+174,IDW,SMG,Main Tank,01:10:00,"01:10:00
+
+Drop, Normal",150,26,15,85,75
+175,LWMMG,MG,Burst,05:10:00,"05:10:00
+
+Drop",174,95,24,22,90
+176,Spectre-M4,SMG,Main Tank,01:20:00,"01:20:00
+
+Drop, Normal",176,25,12,66,88
+177,MP-446,HG,,00:25:00,"00:25:00
+
+Normal",66,30,53,74,59
+178,FNP9,HG,,00:25:00,"00:25:00
+
+Normal",60,28,53,83,61
+179,Bren,MG,Burst,05:20:00,"05:20:00
+
+Heavy, Normal",174,89,31,28,102
+180,MG3,MG,Burst,06:30:00,"06:30:00
+
+Heavy, Normal",198,85,26,21,130
+181,MG34,MG,Burst,05:00:00,"05:00:00
+
+Drop, Normal",165,85,22,25,120
+182,MG42,MG,Burst,05:50:00,"05:50:00
+
+Heavy, Normal",165,92,23,26,132
+183,PK,MG,Burst,06:30:00,"06:30:00
+
+Drop, Heavy, Normal",190,96,21,23,84
+184,RPD,MG,Burst,,,165,82,34,34,121
+185,DP28,MG,Burst,05:00:00,"05:00:00
+
+Heavy, Normal",141,88,28,31,114
+186,M16A1,AR,Specialist,,Career Reward,121,47,46,44,75
+187,VM59,RF,Burst,03:20:00,"03:20:00
+
+Heavy, Normal",97,104,52,25,38
+188,FAL,AR,Burst,03:45:00,"03:45:00
+
+Heavy, Normal",132,57,43,38,72
+189,Astra,HG,,00:40:00,"00:40:00
+
+Normal",80,33,45,68,52
+190,PP-90,SMG,Main Tank,02:20:00,"02:20:00
+
+Heavy, Normal",159,25,13,86,96
+191,PPS-43,SMG,Offtank,02:10:00,"02:10:00
+
+Heavy, Normal",176,33,13,65,74
+192,PPSh-41,SMG,Offtank,01:50:00,"01:50:00
+
+Heavy, Normal",194,26,11,56,93
+193,Vector,SMG,Offtank,02:35:00,"02:35:00
+
+Drop, Heavy, Normal",185,30,11,71,101
+194,FMG-9,SMG,Main Tank,,Drop,141,26,13,90,92
+195,Ingram,SMG,Main Tank,02:00:00,"02:00:00
+
+Heavy, Normal",176,28,11,68,91
+196,M3,SMG,Offtank,01:30:00,"01:30:00
+
+Drop, Normal",185,30,13,67,68
+197,Thompson,SMG,"Main Tank, Specialist",02:30:00,"02:30:00
+
+Heavy",238,31,12,56,82
+198,G17,HG,,,Drop,63,29,58,87,61
+199,Type 92,HG,,00:35:00,"00:35:00
+
+Normal",63,31,46,80,61
+200,MP40,SMG,"Offtank, Molotov",01:30:00,"01:30:00
+
+Drop, Normal",185,29,13,58,76
+201,C96,HG,,00:30:00,"00:30:00
+
+Normal",83,29,41,61,62
+202,P08,HG,,00:30:00,"00:30:00
+
+Drop, Normal",70,31,46,80,55
+203,PPK,HG,,00:22:00,"00:22:00
+
+Normal",57,25,59,100,63
+204,P38,HG,,00:20:00,"00:20:00
+
+Normal",66,28,49,81,57
+205,Makarov,HG,Main Tank,00:40:00,"00:40:00
+
+Normal",63,26,61,96,61
+206,Stechkin,HG,,00:55:00,"00:55:00
+
+Normal",83,28,44,66,65
+207,Tokarev,HG,Debuffer,00:45:00,"00:45:00
+
+Drop, Normal",86,31,47,66,52
+208,M1895 Nagant Revolver,HG,Debuffer,00:20:00,"00:20:00
+
+Drop, Normal",70,32,46,92,44
+209,M9,HG,Specialist,00:40:00,"00:40:00
+
+Drop, Normal",76,29,56,66,61
+210,PP-2000,SMG,Offtank,01:10:00,"01:10:00
+
+Normal",159,30,11,74,80
+211,MP5,SMG,Force Shield,02:20:00,"02:20:00
+
+Heavy, Normal",168,30,13,68,89
+212,FN49,RF,Burst,03:10:00,"03:10:00
+
+Normal",93,111,61,32,32
+213,SVT-38,RF,,03:30:00,"03:30:00
+
+Heavy, Normal",84,110,59,34,34
+214,Lee-Enfield,RF,Sustained,05:00:00,"05:00:00
+
+Heavy, Normal",80,135,78,40,36
+215,Type56R,RF,,,"Drop, Event",93,103,65,36,36
+216,WA2000,RF,Burst,04:50:00,"04:50:00
+
+Drop, Heavy, Normal",88,130,82,30,39
+217,G43,RF,"Night, Burst",03:10:00,"03:10:00
+
+Normal",80,111,58,28,40
+218,Kar98k,RF,Burst,04:40:00,"04:40:00
+ 
+Heavy, Normal",84,135,78,41,34
+219,SV-98,RF,,03:40:00,"03:40:00
+
+Heavy, Normal",84,122,74,28,37
+220,SVD,RF,Burst,04:15:00,"04:15:00
+
+Heavy, Normal",80,130,80,33,37
+221,PTRD,RF,,04:30:00,"04:30:00
+
+Drop, Heavy, Normal",93,159,75,29,28
+222,SKS,RF,Burst,03:30:00,"03:30:00
+
+Normal",93,100,59,34,34
+223,Mosin-Nagant,RF,Bamboo (RF),04:10:00,"04:10:00
+
+Drop, Heavy,  Normal",88,131,85,38,30
+224,Skorpion,SMG,Offtank,02:00:00,"02:00:00
+
+Heavy, Normal",159,24,13,83,95
+225,M21,RF,,,Drop,93,118,74,27,35
+226,M14,RF,Burst,03:40:00,"03:40:00
+
+Heavy, Normal",84,108,71,27,43
+227,Springfield,RF,,04:25:00,"04:25:00
+
+Drop, Heavy, Normal",84,128,72,40,32
+228,M1A1,RF,Sustained,,Drop,84,95,77,42,38
+229,M1 Garand,RF,,04:00:00,"04:00:00
+
+Heavy, Normal",88,120,62,28,37
+230,m45,SMG,Main Tank,01:20:00,"01:20:00
+
+Heavy, Normal",185,30,12,62,74
+231,Micro Uzi,SMG,Offtank,01:40:00,"01:40:00
+
+Heavy, Normal",159,24,11,79,104
+232,M38,SMG,Main Tank,01:30:00,"01:30:00
+
+Drop, Normal",203,32,12,52,75
+233,STEN MkII,SMG,"Main Tank, Offtank",01:40:00,"01:40:00
+
+Heavy, Normal",185,26,15,75,78
+234,MP7,SMG,,02:18:00,"02:18:00
+
+Event, Heavy",198,30,13,69,91
+235,OTs-12,AR,Sustained,03:10:00,"03:10:00
+
+Drop, Heavy, Normal",105,42,54,54,72
+236,F2000,AR,"Sustained, Damage/FP Self-Buffer",02:45:00,"02:45:00
+
+Drop, Normal",105,42,44,40,81
+237,CZ-52,HG,,,"Drop, Event, Log-in Reward",76,33,50,68,53
+238,RFB,AR,Sustained,03:58:00,"03:58:00
+
+Heavy, Normal",105,69,68,49,54
+239,T91,AR,"Burst,  Night",03:48:00,"03:48:00
+
+Normal, Heavy",124,51,44,46,76
+240,PzB39,RF,,,,84,148,71,31,32
+241,DSR-50,RF,,,,82,163,87,33,31
+242,F1,SMG,Main Tank,,"Drop, Heavy",212,26,14,60,79
+243,KLIN,SMG,"Offtank, Molotov",,Drop,190,25,11,74,95
+244,TMP,SMG,"Main Tank, Offtank",,Event,150,28,14,77,93
+245,ART556,AR,Burst,,Event,116,53,53,49,69
+246,Type81R,RF,"Night, Burst",,,75,123,79,41,32
+247,PKP,MG,Burst,06:50:00,"06:50:00
+
+ Heavy, Normal",165,95,31,29,127
+248,Ribeyrolles,AR,"Specialist,",03:40:00,"03:40:00
+
+Normal",110,64,44,40,63
+249,Contender,HG,,01:02:00,"01:02:00
+
+Normal",66,46,85,82,44
+250,ASh-12.7,AR,Sustained,,Event,110,65,41,36,59
+251,SCW,SMG,"Offtank, Oddball",,Drop,168,30,12,68,91
+252,Spitfire,HG,,00:52:00,"00:52:00
+
+Normal",70,33,60,71,55
+253,Gr HK45,HG,,,Log-in Reward,66,34,58,80,55
+254,CZ75,HG,,,Event,66,34,62,74,66
+255,SPAS-12,SG,Main Tank,07:40:00,07:40:00,275,33,11,9,32
+256,Type 97S,SG,DPS,,Obtained from crafting 10 Heavy T-Doll Production,264,33,12,13,27
+257,Saiga-12,SG,Main Tank,08:05:00,"08:05:00
+
+Heavy",264,29,12,11,35
+258,RMB-93,SG,Main Tank,07:30:00,"07:30:00
+
+Heavy",242,30,11,13,25
+259,wz.29,RF,Burst,,"Drop, Event, Log-in Reward",97,113,65,33,32
+260,T-5000,RF,Burst,04:10:00,"04:10:00
+
+Heavy, Normal",90,126,85,28,36
+261,KSG,SG,Main Tank,08:00:00,"08:00:00
+
+Heavy",253,29,13,12,30
+262,Carcano M1891,RF,Support,04:38:00,"04:38:00
+
+Heavy, Normal",80,138,85,42,35
+263,OTs-39,SMG,Main Tank,,,190,27,14,72,74
+264,HMG21,MG,,,Event,169,92,29,33,135
+265,CZ2000,AR,Sustained,,"Drop, Event",110,48,44,46,78
+266,AK12,AR,"Sustained, Burst",04:12:00,"04:12:00
+
+Normal",110,56,62,52,74
+267,AN-94,AR,Sustained,04:09:00,"04:09:00
+
+Heavy, Normal",116,55,67,48,76
+268,Gepard M1,RF,,,,88,143,77,28,30
+269,XM3,RF,"Night, Burst",,Drop,82,130,90,32,35
+270,Type 80,MG,Burst,06:15:00,"06:15:00
+
+Heavy, Normal",174,93,26,24,37
+271,Carcano M91/38,RF,Specialist,04:42:00,"04:42:00
+
+Heavy, Normal",73,146,90,44,30
+272,Zas M21,AR,,04:05:00,"04:05:00
+
+Heavy, Normal",121,55,48,41,74
+273,Ameli,MG,Burst,06:25:00,"06:25:00
+
+Normal",141,83,38,42,149
+274,MG23,MG,Burst,,Log-in Reward,149,80,34,34,135
+275,K2,AR,Burst,03:52:00,"03:52:00
+
+Heavy, Normal",127,50,51,42,78
+276,JS05,RF,,,Event,90,158,88,32,31
+277,M12,SMG,Offtank,,,203,26,5,64,76
+278,NS2000,SG,Main Tank,07:15:00,"07:15:00
+
+Heavy",253,33,12,11,31
+279,USAS-12,SG,"Main Tank, Burst",07:55:00,"07:55:00
+
+Heavy",260,29,11,10,37
+280,S.A.T.8,SG,"Main Tank, Specialist",08:10:00,"08:10:00
+
+Heavy",282,29,13,12,33
+281,AK5,AR,"Burst, Sustained",,Drop,116,51,48,38,75
+282,P226,HG,,,"Drop, Event, Log-in Reward",73,29,58,63,61
+283,KS-23,SG,Main Tank,07:25:00,"07:25:00
+
+Heavy",275,40,9,10,25
+284,Super-Shorty,SG,Main Tank,07:50:00,"07:50:00
+
+Heavy",242,28,14,19,30
+285,CZ-805,AR,Burst,,Drop,116,43,49,41,75
+286,OTs-14,AR,"Night, Burst",,Event,110,49,54,54,75
+287,M99,RF,,04:55:00,"04:55:00
+
+Heavy, Normal",88,157,81,32,32
+288,Type 79,SMG,Main Tank,02:35:00,02:35:00,194,32,12,70,88
+289,NZ75,HG,Debuffer,01:05:00,"01:05:00
+
+Normal",73,33,62,74,63
+290,MG4,MG,Burst,06:40:00,"06:40:00
+
+Heavy, Normal",182,84,34,34,139
+291,P99,HG,,00:35:00,00:35:00,60,31,56,87,61
+292,G11,AR,"Burst, Multi-hit",04:04:00,"04:04:00
+
+Heavy, Normal",121,43,44,41,95
+293,Mk48,MG,Burst,06:20:00,"06:20:00
+
+Heavy, Normal",174,90,25,26,112
+294,ARX-160,AR,Burst,,"Drop, Event, Heavy",99,49,48,48,73
+295,9A-91,AR,"Night, Burst,",03:35:00,"03:35:00
+
+Drop, Heavy, Normal",116,42,49,50,78
+296,Type97,AR,Sustained,03:50:00,"03:50:00
+
+Heavy, Normal",116,54,51,46,72
+297,PSG-1,RF,,,,93,120,73,26,39
+298,Z-62,SMG,Offtank,,,168,28,15,77,77
+299,Suomi,SMG,Main Tank,02:25:00,"02:25:00
+
+Heavy, Normal",220,28,15,56,93
+300,Welrod MKII,HG,"Support, Debuffer",01:00:00,"01:00:00
+
+Normal",80,28,71,90,52
+301,Serdyukov,HG,,,,70,33,58,68,58
+302,Negev,MG,"Burst, Specialist",06:35:00,"06:35:00
+
+Heavy, Normal",174,84,35,36,139
+303,AAT-52,MG,Burst,04:50:00,"04:50:00
+
+Heavy, Normal",182,79,24,22,119
+304,FG42,MG,Burst,04:50:00,"04:50:00
+
+Heavy, Normal",149,87,28,33,121
+305,MG5,MG,"Burst,",06:45:00,"06:45:00
+
+Drop, Heavy, Normal",198,85,27,27,120
+306,Type95,AR,Sustained,03:50:00,"03:50:00
+
+Heavy, Normal",116,55,52,46,71
+307,EVO 3,SMG,Offtank,,"Drop, Log-in Reward",194,23,13,68,93
+308,M590,SG,Main Tank,07:40:00,"07:40:00
+
+Heavy",264,32,11,10,31
+309,MT-9,SMG,Main Tank,,,203,25,13,60,88
+310,M500,SG,Offtank,07:20:00,"07:20:00
+
+Heavy",264,31,11,10,29
+311,Ithaca M37,SG,Main Tank,07:45:00,"07:45:00
+
+Heavy",253,33,12,12,26
+312,M1887,SG,Main Tank,,Event,275,39,12,12,22
+313,Shipka,SMG,Main Tank,02:18:00,"02:18:00
+
+Drop, Heavy, Normal",168,24,14,79,95
+314,AEK-999,MG,Burst,06:20:00,"06:20:00
+
+Heavy, Normal",165,89,29,28,32
+315,IWS-2000,RF,"Specialist, Sustained",04:52:00,04:52:00,88,162,78,29,32
+316,SSG 69,RF,Burst,,,80,130,82,39,30
+317,G28,RF,Burst,04:20:00,"04:20:00
+
+Drop, Event",88,119,80,29,39
+318,OTs-44,RF,,,,80,157,67,32,28
+319,RO635,SMG,Main Tank,,Clear 7-6,194,27,14,71,97
+320,Type59,HG,"Night,",,,60,28,61,96,61
+321,Five-SeveN,HG,,,Event,63,33,57,97,64
+322,USP Compact,HG,,00:28:00,00:28:00,66,24,60,86,65
+323,PSM,HG,,,,57,24,67,112,58
+324,Bren Ten,HG,,00:28:00,"00:28:00
+
+Drop, Normal",70,12,7,63,58
+325,6P62,AR,Burst,,Event,121,69,37,33,54
+326,PP-19-01,SMG,Main Tank,02:18:00,"02:18:00
+
+Heavy, Normal",194,27,13,68,85
+327,PP-19,SMG,Offtank,,"Drop, Event",176,26,14,74,91
+328,SR-3MP,SMG,"Burst, Offtank",02:33:00,"02:33:00
+
+Drop, Heavy, Normal",194,31,12,67,90
+329,AR70,AR,,,"Event, Log-in Reward",110,50,44,41,71
+330,Type 63,AR,Sustained,02:45:00,"02:45:00
+
+Normal, Map drop",99,51,40,40,73
+331,Lusa,SMG,Main Tank,,Event,205,29,12,69,94

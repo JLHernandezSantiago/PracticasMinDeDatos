@@ -1,0 +1,334 @@
+,Unnamed: 0,Nombre_de_T-doll,Tipo_de_Arma,Rol_de_T-doll,Tiempo_de_Produccion,Obtencion,Puntos_de_vida,Daño,Precision,Evasion,Cadencia_de_Disparo
+0,0,SAA,HG,Damage Echelon Buffer,00:50:00,Normal,80.0,36.0,49.0,76.0,47.0
+1,1,Mk46,MG,Burst,00:05:00,Drop,162.0,78.0,34.0,36.0,142.0
+2,2,JS 9,SMG,Offtank,00:05:00,Event,180.0,27.0,15.0,86.0,89.0
+3,3,MP-448,HG,Versatile,00:05:00,Log-in Reward,64.0,26.0,62.0,99.0,60.0
+4,4,M82A1,RF,Versatile,00:05:00,Event,88.0,158.0,77.0,30.0,34.0
+5,5,A-91,AR,Versatile,00:05:00,Drop,113.0,52.0,50.0,37.0,75.0
+6,6,Mk 12,RF,Burst,00:05:00,Drop,81.0,101.0,82.0,32.0,46.0
+7,7,Model L,AR,Sustained,00:05:00,Log-in Reward,110.0,50.0,45.0,41.0,73.0
+8,8,P22,HG,"Specialist, Offtank",00:05:00,"Drop, Event",70.0,28.0,66.0,110.0,62.0
+9,9,ADS,AR,"Specialist, Burst",03:55:00,Normal,121.0,50.0,54.0,45.0,78.0
+10,10,AK-74U,SMG,Main Tank,00:05:00,Event,194.0,35.0,13.0,67.0,83.0
+11,11,Python,HG,Specialist,00:05:00,Continuum Turbulence,70.0,40.0,81.0,82.0,49.0
+12,12,M870,SG,"Main Tank, Specialist",00:05:00,Drop,264.0,33.0,13.0,12.0,29.0
+13,13,MP-443,HG,Versatile,00:05:00,"Drop, Log-in Reward",70.0,33.0,53.0,71.0,59.0
+14,14,Ballista,RF,Burst,00:05:00,Event,82.0,139.0,92.0,35.0,36.0
+15,15,Honey Badger,SMG,"Burst, Offtank",00:05:00,Event,198.0,33.0,13.0,60.0,82.0
+16,16,Thunder,HG,Versatile,00:05:00,Event,86.0,46.0,57.0,60.0,37.0
+17,17,RT-20,RF,Burst,00:05:00,Log-in Reward,90.0,158.0,78.0,28.0,27.0
+18,18,TEC-9,HG,Versatile,00:05:00,Log-in Reward,83.0,28.0,46.0,63.0,63.0
+19,19,K31,RF,Burst,04:15:00,"Heavy, Normal",78.0,126.0,78.0,37.0,39.0
+20,20,K3,MG,Burst,00:05:00,Log-in Reward,165.0,78.0,30.0,35.0,134.0
+21,21,T-CMS,RF,Sustained,00:05:00,Log-in Reward,88.0,120.0,75.0,27.0,37.0
+22,22,P30,HG,Specialist,00:50:00,Normal,70.0,32.0,62.0,85.0,55.0
+23,23,4 Shiki,RF,"Sustained,",04:04:00,Normal,84.0,112.0,74.0,37.0,39.0
+24,24,R93,RF,Sustained,00:05:00,Event,81.0,133.0,97.0,34.0,39.0
+25,25,HK33,AR,Sustained,00:05:00,Log-in Reward,105.0,49.0,51.0,46.0,73.0
+26,26,PA-15,HG,"Specialist, Offtank",01:15:00,Normal,70.0,35.0,65.0,76.0,64.0
+27,27,EM-2,AR,Burst,00:05:00,Normal,119.0,57.0,48.0,48.0,61.0
+28,28,X95,SMG,Offtank,00:05:00,Drop,194.0,34.0,13.0,67.0,90.0
+29,29,MG36,MG,Burst,00:05:00,Unknown,182.0,85.0,34.0,36.0,129.0
+30,30,Magal,AR,Sustained,00:05:00,Log-in Reward,116.0,47.0,47.0,43.0,70.0
+31,31,Steyr Scout,RF,Versatile,00:05:00,Log-in Reward,90.0,114.0,78.0,35.0,35.0
+32,32,HS2000,HG,Specialist,00:05:00,Unknown,72.0,33.0,61.0,87.0,62.0
+33,33,UKM-2000,MG,Burst,00:05:00,"Drop, Event",169.0,90.0,26.0,26.0,115.0
+34,34,Lewis Gun,MG,Sustained,00:05:00,Event,190.0,102.0,31.0,31.0,116.0
+35,35,KSVK,RF,Versatile,00:05:00,"Drop, Event",88.0,158.0,78.0,30.0,31.0
+36,36,QJY-88,MG,Burst,06:28:00,"Heavy, Normal",165.0,86.0,33.0,35.0,126.0
+37,37,El Clear,HG,Specialist,00:05:00,Event,66.0,31.0,62.0,88.0,61.0
+38,38,Elphelt,SG,Main Tank,00:05:00,Event,275.0,36.0,13.0,9.0,28.0
+39,39,Noel Vermillion,HG,Versatile,00:05:00,Unknown,60.0,39.0,60.0,82.0,65.0
+40,40,GSh-18,HG,"Burst,",00:05:00,Unknown,70.0,33.0,48.0,86.0,52.0
+41,41,T77,SMG,Main Tank,00:05:00,Event,185.0,24.0,11.0,69.0,92.0
+42,42,XM8,AR,Burst,03:25:00,"Heavy, Normal",108.0,48.0,46.0,42.0,79.0
+43,43,MDR,AR,Sustained,03:53:00,"Heavy, Normal",119.0,56.0,50.0,41.0,76.0
+44,44,SAR-21,AR,Sustained,03:25:00,"Heavy, Normal",116.0,44.0,46.0,38.0,80.0
+45,45,Jill Stingray,HG,"Specialist,",00:05:00,Event,80.0,30.0,53.0,96.0,55.0
+46,46,Px4 Storm,HG,"Specialist,",01:04:00,Normal,68.0,35.0,69.0,93.0,57.0
+47,47,P90,SMG,"Specialist, Main Tank",02:29:00,"Heavy, Normal",190.0,30.0,15.0,83.0,93.0
+48,48,M1897,SG,"Oddball, DPS",07:30:00,Heavy,253.0,35.0,11.0,11.0,26.0
+49,49,FP-6,SG,Main Tank,08:06:00,Heavy,260.0,31.0,13.0,12.0,28.0
+50,50,Dana Zane,SG,Main Tank,00:05:00,Event,269.0,38.0,15.0,13.0,26.0
+51,51,Alma Armas,MG,Burst,00:05:00,Event,195.0,89.0,31.0,23.0,129.0
+52,52,Stella Hoshii,RF,Burst,00:05:00,Event,90.0,117.0,84.0,36.0,35.0
+53,53,Dorothy Haze,SMG,"Main Tank, Offtank",00:05:00,Event,176.0,28.0,15.0,87.0,79.0
+54,54,Sei Asagiri,HG,Versatile,00:05:00,Event,85.0,30.0,59.0,77.0,53.0
+55,55,TAC-50,RF,Versatile,00:05:00,Event,87.0,155.0,83.0,31.0,32.0
+56,56,SPR A3G,RF,Versatile,04:15:00,"Heavy, Normal",87.0,130.0,83.0,31.0,35.0
+57,57,Jericho,HG,Versatile,00:49:00,Normal,76.0,31.0,50.0,64.0,60.0
+58,58,64 Shiki,AR,"Burst, Specialist",04:06:00,"Heavy, Normal",125.0,67.0,62.0,43.0,63.0
+59,59,K11,AR,Burst,04:11:00,"Heavy, Normal",135.0,53.0,54.0,37.0,76.0
+60,60,62 Shiki,MG,Burst,00:05:00,Log-in Reward,169.0,87.0,31.0,28.0,122.0
+61,61,100 Shiki,SMG,Main Tank,02:19:00,"Heavy, Normal",212.0,29.0,14.0,67.0,76.0
+62,62,M1014,SG,"Main Tank, Burst",07:14:00,Heavy,275.0,31.0,12.0,11.0,32.0
+63,63,AA-12,SG,"Main Tank, Burst",08:12:00,Heavy,269.0,30.0,12.0,11.0,39.0
+64,64,M200,RF,Sure Hit,04:32:00,"Heavy, Normal",88.0,145.0,96.0,31.0,34.0
+65,65,M1895 CB,MG,"Burst,",00:05:00,"Drop, Event",190.0,90.0,26.0,23.0,131.0
+66,66,K5,HG,Versatile,00:53:00,Normal,66.0,29.0,52.0,81.0,62.0
+67,67,Steyr ACR,AR,DPS,04:08:00,Normal,124.0,46.0,45.0,42.0,91.0
+68,68,AUG Para,SMG,"Main Tank, Offtank",00:05:00,Dual Randomness Crate Reward,185.0,29.0,15.0,83.0,88.0
+69,69,Rex Zero 1,HG,Versatile,00:05:00,Normal,70.0,31.0,56.0,74.0,61.0
+70,70,Defender,SG,"Burst, Specialist",00:05:00,Drop,247.0,38.0,13.0,17.0,27.0
+71,71,QSB-91,HG,Specialist,00:05:00,Log-in Reward,70.0,36.0,58.0,72.0,53.0
+72,72,VSK-94,RF,Sustained,04:43:00,"Heavy, Normal",88.0,133.0,79.0,32.0,38.0
+73,73,GM6 Lynx,RF,Burst,00:05:00,Log-in Reward,84.0,135.0,75.0,30.0,33.0
+74,74,C14,RF,Burst,00:05:00,Log-in Reward,93.0,128.0,77.0,29.0,32.0
+75,75,Minos,SG,"Main Tank, Specialist",00:05:00,Event,286.0,39.0,12.0,11.0,24.0
+76,76,Medusa,AR,Versatile,00:05:00,Event,121.0,58.0,57.0,47.0,73.0
+77,77,Yurine,MG,Versatile,00:05:00,Event,182.0,93.0,29.0,24.0,128.0
+78,78,Jashin-Chan,SMG,Offtank,00:05:00,Event,204.0,26.0,13.0,75.0,81.0
+79,79,CAR,MG,Versatile,00:05:00,Log-in Reward,165.0,93.0,32.0,29.0,112.0
+80,80,RPK-203,MG,1st Volley,06:16:00,"Normal, Heavy",165.0,91.0,34.0,36.0,124.0
+81,81,PPD-40,SMG,"Support, Offtank",02:10:00,"Normal, Heavy",185.0,26.0,13.0,75.0,88.0
+82,82,FX-05,AR,Sustained,03:40:00,"Normal, Heavy",110.0,54.0,47.0,47.0,69.0
+83,83,AR-57,SMG,"Support, Offtank, Main Tank",02:16:00,"Normal, Heavy",183.0,26.0,14.0,74.0,92.0
+84,84,WKp,HG,Versatile,00:05:00,Login Reward,80.0,41.0,49.0,65.0,44.0
+85,85,AUG Para,SMG,Versatile,00:05:00,Unknown,,,,,
+86,86,PM1910,MG,1st Volley,00:05:00,Dual Randomness Clear 3-1 Ghost Sisters Infinity Map Drop,190.0,90.0,27.0,25.0,104.0
+87,87,Mondragon M1908,RF,Support,00:05:00,Dual Ranmdoness E2-1 Pollinosis Infinity Map Drop,84.0,112.0,74.0,34.0,41.0
+88,88,VHS,AR,Sustained,00:05:00,Event,116.0,57.0,54.0,47.0,78.0
+89,89,General Liu,RF,"Generalist, Support",00:05:00,Dual Randomness,80.0,139.0,88.0,30.0,40.0
+90,90,Pekola,RF,Versatile,00:05:00,Event,88.0,126.0,80.0,40.0,37.0
+91,91,De Lisle,RF,Versatile,05:00:00,Normal,102.0,109.0,87.0,38.0,37.0
+92,92,Falcon,RF,Specialist,00:05:00,Log-in Reward,88.0,140.0,71.0,28.0,32.0
+93,93,Six12,SG,Versatile,00:05:00,"Event, Log-in Reward",242.0,34.0,13.0,13.0,30.0
+94,94,Zas M76,RF,Versatile,00:05:00,Log-in Reward,84.0,110.0,78.0,35.0,37.0
+95,95,SL8,RF,Versatile,00:05:00,Event,85.0,120.0,78.0,39.0,41.0
+96,96,Agent Vector,SMG,Main Tank,00:05:00,Event,185.0,30.0,11.0,71.0,101.0
+97,97,Agent 416,AR,Burst,00:05:00,Event,121.0,51.0,46.0,44.0,76.0
+98,98,MAT-49,SMG,Versatile,00:05:00,Unknown,185.0,29.0,14.0,73.0,88.0
+99,99,Liberator,SG,Versatile,00:05:00,Heavy,231.0,36.0,12.0,15.0,30.0
+100,100,CAWS,SG,Specialist,00:05:00,Heavy,247.0,30.0,12.0,13.0,35.0
+101,101,DP-12,SG,Main Tank,08:13:00,Heavy,252.0,31.0,13.0,13.0,30.0
+102,102,Type64,SMG,Offtank,01:25:00,"Heavy, Normal",176.0,27.0,11.0,65.0,93.0
+103,103,ZB-26,MG,Sustained,06:26:00,Normal,182.0,100.0,30.0,31.0,116.0
+104,104,Triela,SG,Main Tank,00:05:00,Event,253.0,37.0,12.0,12.0,26.0
+105,105,Claes,MG,Specialist,00:05:00,Event,157.0,79.0,35.0,36.0,139.0
+106,106,Rico,RF,"Sustained,",00:05:00,Event,80.0,130.0,80.0,33.0,37.0
+107,107,Henrietta,SMG,Main Tank,00:05:00,Event,190.0,30.0,15.0,83.0,93.0
+108,108,Angelica ,AR,Burst,00:05:00,Event,121.0,55.0,57.0,46.0,75.0
+109,109,C-93,HG,Versatile,01:09:00,Normal,63.0,33.0,62.0,98.0,64.0
+110,110,KAC-PDW,SMG,Main Tank,02:20:00,"Heavy, Normal",180.0,33.0,14.0,71.0,81.0
+111,111,CR-21,AR,Sustained,03:35:00,"Heavy, Normal",110.0,48.0,52.0,43.0,81.0
+112,112,SIG-556,AR,Burst,03:54:00,"Heavy, Normal",121.0,53.0,46.0,45.0,76.0
+113,113,AK-Alfa,AR,Sustained,03:56:00,Normal,116.0,56.0,53.0,52.0,75.0
+114,114,Tabuk,RF,Sustained,04:25:00,Normal,84.0,115.0,81.0,36.0,39.0
+115,115,SVCh,RF,"Oddball, Damage/FP Self-Buffer",04:47:00,Normal,87.0,144.0,97.0,30.0,35.0
+116,116,Howa 89,AR,Sustained,04:08:00,Normal,,,,,
+117,117,Mas-38,SMG,Versatile,00:05:00,Log-in Reward,190.0,26.0,13.0,72.0,83.0
+118,118,SUB-2000,SMG,Offtank,00:05:00,Log-in Reward,194.0,27.0,13.0,66.0,84.0
+119,119,512,SG,Offtank,07:56:00,"Heavy, Normal",256.0,37.0,15.0,13.0,31.0
+120,120,PM5,SG,Main Tank,07:11:00,Normal,238.0,34.0,12.0,15.0,29.0
+121,121,LTLX-7000,SG,"Main Tank, Specialist",08:17:00,Normal,275.0,23.0,14.0,11.0,28.0
+122,122,M6 ASW,SG,"Main Tank, Specialist",08:08:00,Heavy,260.0,39.0,15.0,14.0,28.0
+123,123,TS12,SG,Main Tank,00:05:00,Log-in Reward,242.0,34.0,13.0,11.0,30.0
+124,124,StG-940,AR,Sustained,00:05:00,Log-in Reward,110.0,50.0,49.0,44.0,69.0
+125,125,HP-35,HG,Night,01:35:00,Normal,380.0,31.0,64.0,89.0,58.0
+126,126,RPK-16,MG,"Burst, Sustained,",06:16:00, Normal,165.0,85.0,37.0,36.0,129.0
+127,127,SAF,SMG,Offtank,02:10:00,Normal,900.0,25.0,14.0,69.0,99.0
+128,128,43M,SMG,Main Tank,00:05:00,Unknown,185.0,30.0,13.0,56.0,89.0
+129,129,R5 ,AR,Sustained,00:05:00,Unknown,124.0,55.0,54.0,46.0,76.0
+130,130,W - April Fools,AR,"Burst,",00:05:00,Event,113.0,52.0,51.0,46.0,79.0
+131,131,Amiya - April Fools,AR,Burst,00:05:00,Event,113.0,50.0,50.0,50.0,80.0
+132,132,Exusai-April Fools,SMG,"Offtank, Burst",00:05:00,Event,185.0,30.0,11.0,71.0,101.0
+133,133,CF05,SMG,Offtank,00:05:00,Drop,190.0,26.0,13.0,73.0,87.0
+134,134,M82,AR,Burst,00:05:00,Drop,113.0,51.0,45.0,46.0,75.0
+135,135,Webley,HG,Versatile,00:05:00,Event,86.0,29.0,66.0,81.0,57.0
+136,136,AK-15,AR,Burst,04:15:00,Normal,110.0,58.0,52.0,51.0,77.0
+137,137,C-MS,SMG,Main Tank,02:28:00,"Heavy,  Normal",185.0,32.0,15.0,75.0,87.0
+138,138,SRS,RF,Burst,00:05:00,Event,87.0,135.0,82.0,35.0,35.0
+139,139,M1911,HG,Specialist,00:20:00,Normal,73.0,27.0,50.0,74.0,57.0
+140,140,Type56-1,AR,Grenadier,03:25:00,"Heavy, Normal",138.0,53.0,35.0,35.0,69.0
+141,141,M2HB,MG,Burst,06:10:00,"Heavy, Normal",207.0,102.0,18.0,16.0,100.0
+142,142,M1918 BAR,MG,Burst,06:25:00,"Drop, Heavy, Normal",157.0,96.0,31.0,33.0,114.0
+143,143,SIG-510,AR,Burst,02:40:00,"Drop, Normal",116.0,56.0,41.0,37.0,59.0
+144,144,AUG,AR,Sustained,00:05:00,Event,121.0,55.0,57.0,46.0,75.0
+145,145,TAR-21,AR,Burst,03:30:00,"Drop, Heavy, Normal",105.0,49.0,48.0,44.0,79.0
+146,146,Galil,AR,"Sustained, Oddball",02:40:00,"Drop, Normal",105.0,50.0,44.0,43.0,66.0
+147,147,FNC,AR,"Burst, Sustained",03:20:00,"Drop, Heavy, Normal",110.0,51.0,46.0,37.0,73.0
+148,148,FAMAS,AR,Burst,03:30:00,"Drop, Heavy, Normal",121.0,44.0,48.0,40.0,81.0
+149,149,L85A1,AR,Burst,02:50:00,"Drop, Normal",94.0,46.0,43.0,43.0,78.0
+150,150,416,AR,Burst,03:55:00,"Drop, Heavy, Normal",121.0,51.0,46.0,44.0,76.0
+151,151,M249 SAW,MG,"Burst, Night",00:05:00,Drop,157.0,79.0,35.0,36.0,139.0
+152,152,G36,AR,Sustained,03:40:00,"Heavy, Normal",127.0,47.0,44.0,41.0,72.0
+153,153,G3,AR,Versatile,02:50:00,"Drop, Normal",110.0,55.0,46.0,38.0,61.0
+154,154,G41,AR,"Sustained, Damage/FP Self-Buffer",04:05:00,"Heavy, Normal",127.0,50.0,48.0,40.0,77.0
+155,155,StG44,AR,Burst,03:00:00,"Heavy, Normal",127.0,53.0,46.0,36.0,61.0
+156,156,AS Val,AR,"Night, Burst",03:30:00,"Drop, Heavy, Normal",132.0,39.0,46.0,49.0,75.0
+157,157,AK-47,AR,Burst,03:20:00,"Heavy, Normal",132.0,53.0,35.0,34.0,65.0
+158,158,ST AR-15,AR,Sustained,00:05:00,Unknown,105.0,48.0,50.0,50.0,77.0
+159,159,M4 SOPMOD II,AR,Grenadier,00:05:00,Unknown,110.0,50.0,49.0,44.0,78.0
+160,160,M4A1,AR,Damage/FP Self-Buffer,00:05:00,Completing 2-6,110.0,46.0,48.0,48.0,79.0
+161,161,M60,MG,"Burst, Night",06:10:00,"Drop, Heavy, Normal",182.0,92.0,26.0,26.0,111.0
+162,162,M1919A4,MG,Burst,05:40:00,"Heavy, Normal",182.0,96.0,26.0,22.0,99.0
+163,163,NTW-20,RF,Versatile,04:45:00,"Heavy, Normal",93.0,165.0,75.0,29.0,30.0
+164,164,Type88,RF,"Night, Burst",03:50:00,"Heavy, Normal",102.0,108.0,60.0,37.0,31.0
+165,165,G36C,SMG,Main Tank,02:30:00,"Heavy, Normal",203.0,32.0,13.0,65.0,83.0
+166,166,UMP45,SMG,Main Tank,02:15:00,"Drop, Heavy, Normal",185.0,28.0,13.0,74.0,82.0
+167,167,UMP40,SMG,"Sustained, Main Tank",00:05:00,Heavy,180.0,27.0,14.0,75.0,85.0
+168,168,UMP9,SMG,Main Tank,02:15:00,"Drop, Heavy, Normal",176.0,26.0,14.0,76.0,87.0
+169,169,P7,HG,Versatile,00:55:00,"Drop, Normal",63.0,32.0,62.0,83.0,61.0
+170,170,Mk23,HG,"Night,",00:50:00,"Drop, Normal",80.0,29.0,53.0,66.0,63.0
+171,171,SPP-1,HG,"Main Tank,",00:05:00,Event,76.0,35.0,61.0,75.0,48.0
+172,172,Calico M950A,HG,Versatile,01:05:00,Normal,76.0,30.0,55.0,68.0,72.0
+173,173,Grizzly,HG,Versatile,01:10:00,Normal,86.0,38.0,51.0,66.0,54.0
+174,174,IDW,SMG,Main Tank,01:10:00,"Drop, Normal",150.0,26.0,15.0,85.0,75.0
+175,175,LWMMG,MG,Burst,05:10:00,Drop,174.0,95.0,24.0,22.0,90.0
+176,176,Spectre-M4,SMG,Main Tank,01:20:00,"Drop, Normal",176.0,25.0,12.0,66.0,88.0
+177,177,MP-446,HG,Versatile,00:25:00,Normal,66.0,30.0,53.0,74.0,59.0
+178,178,FNP9,HG,Versatile,00:25:00,Normal,60.0,28.0,53.0,83.0,61.0
+179,179,Bren,MG,Burst,05:20:00,"Heavy, Normal",174.0,89.0,31.0,28.0,102.0
+180,180,MG3,MG,Burst,06:30:00,"Heavy, Normal",198.0,85.0,26.0,21.0,130.0
+181,181,MG34,MG,Burst,05:00:00,"Drop, Normal",165.0,85.0,22.0,25.0,120.0
+182,182,MG42,MG,Burst,05:50:00,"Heavy, Normal",165.0,92.0,23.0,26.0,132.0
+183,183,PK,MG,Burst,06:30:00,"Drop, Heavy, Normal",190.0,96.0,21.0,23.0,84.0
+184,184,RPD,MG,Burst,00:05:00,Unknown,165.0,82.0,34.0,34.0,121.0
+185,185,DP28,MG,Burst,05:00:00,"Heavy, Normal",141.0,88.0,28.0,31.0,114.0
+186,186,M16A1,AR,Specialist,00:05:00,Career Reward,121.0,47.0,46.0,44.0,75.0
+187,187,VM59,RF,Burst,03:20:00,"Heavy, Normal",97.0,104.0,52.0,25.0,38.0
+188,188,FAL,AR,Burst,03:45:00,"Heavy, Normal",132.0,57.0,43.0,38.0,72.0
+189,189,Astra,HG,Versatile,00:40:00,Normal,80.0,33.0,45.0,68.0,52.0
+190,190,PP-90,SMG,Main Tank,02:20:00,"Heavy, Normal",159.0,25.0,13.0,86.0,96.0
+191,191,PPS-43,SMG,Offtank,02:10:00,"Heavy, Normal",176.0,33.0,13.0,65.0,74.0
+192,192,PPSh-41,SMG,Offtank,01:50:00,"Heavy, Normal",194.0,26.0,11.0,56.0,93.0
+193,193,Vector,SMG,Offtank,02:35:00,"Drop, Heavy, Normal",185.0,30.0,11.0,71.0,101.0
+194,194,FMG-9,SMG,Main Tank,00:05:00,Drop,141.0,26.0,13.0,90.0,92.0
+195,195,Ingram,SMG,Main Tank,02:00:00,"Heavy, Normal",176.0,28.0,11.0,68.0,91.0
+196,196,M3,SMG,Offtank,01:30:00,"Drop, Normal",185.0,30.0,13.0,67.0,68.0
+197,197,Thompson,SMG,"Main Tank, Specialist",02:30:00,Heavy,238.0,31.0,12.0,56.0,82.0
+198,198,G17,HG,Versatile,00:05:00,Drop,63.0,29.0,58.0,87.0,61.0
+199,199,Type 92,HG,Versatile,00:35:00,Normal,63.0,31.0,46.0,80.0,61.0
+200,200,MP40,SMG,"Offtank, Molotov",01:30:00,"Drop, Normal",185.0,29.0,13.0,58.0,76.0
+201,201,C96,HG,Versatile,00:30:00,Normal,83.0,29.0,41.0,61.0,62.0
+202,202,P08,HG,Versatile,00:30:00,"Drop, Normal",70.0,31.0,46.0,80.0,55.0
+203,203,PPK,HG,Versatile,00:22:00,Normal,57.0,25.0,59.0,100.0,63.0
+204,204,P38,HG,Versatile,00:20:00,Normal,66.0,28.0,49.0,81.0,57.0
+205,205,Makarov,HG,Main Tank,00:40:00,Normal,63.0,26.0,61.0,96.0,61.0
+206,206,Stechkin,HG,Versatile,00:55:00,Normal,83.0,28.0,44.0,66.0,65.0
+207,207,Tokarev,HG,Debuffer,00:45:00,"Drop, Normal",86.0,31.0,47.0,66.0,52.0
+208,208,M1895 Nagant Revolver,HG,Debuffer,00:20:00,"Drop, Normal",70.0,32.0,46.0,92.0,44.0
+209,209,M9,HG,Specialist,00:40:00,"Drop, Normal",76.0,29.0,56.0,66.0,61.0
+210,210,PP-2000,SMG,Offtank,01:10:00,Normal,159.0,30.0,11.0,74.0,80.0
+211,211,MP5,SMG,Force Shield,02:20:00,"Heavy, Normal",168.0,30.0,13.0,68.0,89.0
+212,212,FN49,RF,Burst,03:10:00,Normal,93.0,111.0,61.0,32.0,32.0
+213,213,SVT-38,RF,Versatile,03:30:00,"Heavy, Normal",84.0,110.0,59.0,34.0,34.0
+214,214,Lee-Enfield,RF,Sustained,05:00:00,"Heavy, Normal",80.0,135.0,78.0,40.0,36.0
+215,215,Type56R,RF,Versatile,00:05:00,"Drop, Event",93.0,103.0,65.0,36.0,36.0
+216,216,WA2000,RF,Burst,04:50:00,"Drop, Heavy, Normal",88.0,130.0,82.0,30.0,39.0
+217,217,G43,RF,"Night, Burst",03:10:00,Normal,80.0,111.0,58.0,28.0,40.0
+218,218,Kar98k,RF,Burst,04:40:00,"
+Heavy, Normal",84.0,135.0,78.0,41.0,34.0
+219,219,SV-98,RF,Versatile,03:40:00,"Heavy, Normal",84.0,122.0,74.0,28.0,37.0
+220,220,SVD,RF,Burst,04:15:00,"Heavy, Normal",80.0,130.0,80.0,33.0,37.0
+221,221,PTRD,RF,Versatile,04:30:00,"Drop, Heavy, Normal",93.0,159.0,75.0,29.0,28.0
+222,222,SKS,RF,Burst,03:30:00,Normal,93.0,100.0,59.0,34.0,34.0
+223,223,Mosin-Nagant,RF,Bamboo (RF),04:10:00,"Drop, Heavy,  Normal",88.0,131.0,85.0,38.0,30.0
+224,224,Skorpion,SMG,Offtank,02:00:00,"Heavy, Normal",159.0,24.0,13.0,83.0,95.0
+225,225,M21,RF,Versatile,00:05:00,Drop,93.0,118.0,74.0,27.0,35.0
+226,226,M14,RF,Burst,03:40:00,"Heavy, Normal",84.0,108.0,71.0,27.0,43.0
+227,227,Springfield,RF,Versatile,04:25:00,"Drop, Heavy, Normal",84.0,128.0,72.0,40.0,32.0
+228,228,M1A1,RF,Sustained,00:05:00,Drop,84.0,95.0,77.0,42.0,38.0
+229,229,M1 Garand,RF,Versatile,04:00:00,"Heavy, Normal",88.0,120.0,62.0,28.0,37.0
+230,230,m45,SMG,Main Tank,01:20:00,"Heavy, Normal",185.0,30.0,12.0,62.0,74.0
+231,231,Micro Uzi,SMG,Offtank,01:40:00,"Heavy, Normal",159.0,24.0,11.0,79.0,104.0
+232,232,M38,SMG,Main Tank,01:30:00,"Drop, Normal",203.0,32.0,12.0,52.0,75.0
+233,233,STEN MkII,SMG,"Main Tank, Offtank",01:40:00,"Heavy, Normal",185.0,26.0,15.0,75.0,78.0
+234,234,MP7,SMG,Versatile,02:18:00,"Event, Heavy",198.0,30.0,13.0,69.0,91.0
+235,235,OTs-12,AR,Sustained,03:10:00,"Drop, Heavy, Normal",105.0,42.0,54.0,54.0,72.0
+236,236,F2000,AR,"Sustained, Damage/FP Self-Buffer",02:45:00,"Drop, Normal",105.0,42.0,44.0,40.0,81.0
+237,237,CZ-52,HG,Versatile,00:05:00,"Drop, Event, Log-in Reward",76.0,33.0,50.0,68.0,53.0
+238,238,RFB,AR,Sustained,03:58:00,"Heavy, Normal",105.0,69.0,68.0,49.0,54.0
+239,239,T91,AR,"Burst,  Night",03:48:00,"Normal, Heavy",124.0,51.0,44.0,46.0,76.0
+240,240,PzB39,RF,Versatile,00:05:00,Unknown,84.0,148.0,71.0,31.0,32.0
+241,241,DSR-50,RF,Versatile,00:05:00,Unknown,82.0,163.0,87.0,33.0,31.0
+242,242,F1,SMG,Main Tank,00:05:00,"Drop, Heavy",212.0,26.0,14.0,60.0,79.0
+243,243,KLIN,SMG,"Offtank, Molotov",00:05:00,Drop,190.0,25.0,11.0,74.0,95.0
+244,244,TMP,SMG,"Main Tank, Offtank",00:05:00,Event,150.0,28.0,14.0,77.0,93.0
+245,245,ART556,AR,Burst,00:05:00,Event,116.0,53.0,53.0,49.0,69.0
+246,246,Type81R,RF,"Night, Burst",00:05:00,Unknown,75.0,123.0,79.0,41.0,32.0
+247,247,PKP,MG,Burst,06:50:00," Heavy, Normal",165.0,95.0,31.0,29.0,127.0
+248,248,Ribeyrolles,AR,"Specialist,",03:40:00,Normal,110.0,64.0,44.0,40.0,63.0
+249,249,Contender,HG,Versatile,01:02:00,Normal,66.0,46.0,85.0,82.0,44.0
+250,250,ASh-12.7,AR,Sustained,00:05:00,Event,110.0,65.0,41.0,36.0,59.0
+251,251,SCW,SMG,"Offtank, Oddball",00:05:00,Drop,168.0,30.0,12.0,68.0,91.0
+252,252,Spitfire,HG,Versatile,00:52:00,Normal,70.0,33.0,60.0,71.0,55.0
+253,253,Gr HK45,HG,Versatile,00:05:00,Log-in Reward,66.0,34.0,58.0,80.0,55.0
+254,254,CZ75,HG,Versatile,00:05:00,Event,66.0,34.0,62.0,74.0,66.0
+255,255,SPAS-12,SG,Main Tank,07:40:00,Heavy,275.0,33.0,11.0,9.0,32.0
+256,256,Type 97S,SG,DPS,00:05:00,Obtained from crafting 10 Heavy T-Doll Production,264.0,33.0,12.0,13.0,27.0
+257,257,Saiga-12,SG,Main Tank,08:05:00,Heavy,264.0,29.0,12.0,11.0,35.0
+258,258,RMB-93,SG,Main Tank,07:30:00,Heavy,242.0,30.0,11.0,13.0,25.0
+259,259,wz.29,RF,Burst,00:05:00,"Drop, Event, Log-in Reward",97.0,113.0,65.0,33.0,32.0
+260,260,T-5000,RF,Burst,04:10:00,"Heavy, Normal",90.0,126.0,85.0,28.0,36.0
+261,261,KSG,SG,Main Tank,08:00:00,Heavy,253.0,29.0,13.0,12.0,30.0
+262,262,Carcano M1891,RF,Support,04:38:00,"Heavy, Normal",80.0,138.0,85.0,42.0,35.0
+263,263,OTs-39,SMG,Main Tank,00:05:00,Unknown,190.0,27.0,14.0,72.0,74.0
+264,264,HMG21,MG,Versatile,00:05:00,Event,169.0,92.0,29.0,33.0,135.0
+265,265,CZ2000,AR,Sustained,00:05:00,"Drop, Event",110.0,48.0,44.0,46.0,78.0
+266,266,AK12,AR,"Sustained, Burst",04:12:00,Normal,110.0,56.0,62.0,52.0,74.0
+267,267,AN-94,AR,Sustained,04:09:00,"Heavy, Normal",116.0,55.0,67.0,48.0,76.0
+268,268,Gepard M1,RF,Versatile,00:05:00,Unknown,88.0,143.0,77.0,28.0,30.0
+269,269,XM3,RF,"Night, Burst",00:05:00,Drop,82.0,130.0,90.0,32.0,35.0
+270,270,Type 80,MG,Burst,06:15:00,"Heavy, Normal",174.0,93.0,26.0,24.0,37.0
+271,271,Carcano M91/38,RF,Specialist,04:42:00,"Heavy, Normal",73.0,146.0,90.0,44.0,30.0
+272,272,Zas M21,AR,Versatile,04:05:00,"Heavy, Normal",121.0,55.0,48.0,41.0,74.0
+273,273,Ameli,MG,Burst,06:25:00,Normal,141.0,83.0,38.0,42.0,149.0
+274,274,MG23,MG,Burst,00:05:00,Log-in Reward,149.0,80.0,34.0,34.0,135.0
+275,275,K2,AR,Burst,03:52:00,"Heavy, Normal",127.0,50.0,51.0,42.0,78.0
+276,276,JS05,RF,Versatile,00:05:00,Event,90.0,158.0,88.0,32.0,31.0
+277,277,M12,SMG,Offtank,00:05:00,Unknown,203.0,26.0,5.0,64.0,76.0
+278,278,NS2000,SG,Main Tank,07:15:00,Heavy,253.0,33.0,12.0,11.0,31.0
+279,279,USAS-12,SG,"Main Tank, Burst",07:55:00,Heavy,260.0,29.0,11.0,10.0,37.0
+280,280,S.A.T.8,SG,"Main Tank, Specialist",08:10:00,Heavy,282.0,29.0,13.0,12.0,33.0
+281,281,AK5,AR,"Burst, Sustained",00:05:00,Drop,116.0,51.0,48.0,38.0,75.0
+282,282,P226,HG,Versatile,00:05:00,"Drop, Event, Log-in Reward",73.0,29.0,58.0,63.0,61.0
+283,283,KS-23,SG,Main Tank,07:25:00,Heavy,275.0,40.0,9.0,10.0,25.0
+284,284,Super-Shorty,SG,Main Tank,07:50:00,Heavy,242.0,28.0,14.0,19.0,30.0
+285,285,CZ-805,AR,Burst,00:05:00,Drop,116.0,43.0,49.0,41.0,75.0
+286,286,OTs-14,AR,"Night, Burst",00:05:00,Event,110.0,49.0,54.0,54.0,75.0
+287,287,M99,RF,Versatile,04:55:00,"Heavy, Normal",88.0,157.0,81.0,32.0,32.0
+288,288,Type 79,SMG,Main Tank,02:35:00,"Heavy, Normal",194.0,32.0,12.0,70.0,88.0
+289,289,NZ75,HG,Debuffer,01:05:00,Normal,73.0,33.0,62.0,74.0,63.0
+290,290,MG4,MG,Burst,06:40:00,"Heavy, Normal",182.0,84.0,34.0,34.0,139.0
+291,291,P99,HG,Versatile,00:35:00,Normal,60.0,31.0,56.0,87.0,61.0
+292,292,G11,AR,"Burst, Multi-hit",04:04:00,"Heavy, Normal",121.0,43.0,44.0,41.0,95.0
+293,293,Mk48,MG,Burst,06:20:00,"Heavy, Normal",174.0,90.0,25.0,26.0,112.0
+294,294,ARX-160,AR,Burst,00:05:00,"Drop, Event, Heavy",99.0,49.0,48.0,48.0,73.0
+295,295,9A-91,AR,"Night, Burst,",03:35:00,"Drop, Heavy, Normal",116.0,42.0,49.0,50.0,78.0
+296,296,Type97,AR,Sustained,03:50:00,"Heavy, Normal",116.0,54.0,51.0,46.0,72.0
+297,297,PSG-1,RF,Versatile,00:05:00,Unknown,93.0,120.0,73.0,26.0,39.0
+298,298,Z-62,SMG,Offtank,00:05:00,Unknown,168.0,28.0,15.0,77.0,77.0
+299,299,Suomi,SMG,Main Tank,02:25:00,"Heavy, Normal",220.0,28.0,15.0,56.0,93.0
+300,300,Welrod MKII,HG,"Support, Debuffer",01:00:00,Normal,80.0,28.0,71.0,90.0,52.0
+301,301,Serdyukov,HG,Versatile,00:05:00,Unknown,70.0,33.0,58.0,68.0,58.0
+302,302,Negev,MG,"Burst, Specialist",06:35:00,"Heavy, Normal",174.0,84.0,35.0,36.0,139.0
+303,303,AAT-52,MG,Burst,04:50:00,"Heavy, Normal",182.0,79.0,24.0,22.0,119.0
+304,304,FG42,MG,Burst,04:50:00,"Heavy, Normal",149.0,87.0,28.0,33.0,121.0
+305,305,MG5,MG,"Burst,",06:45:00,"Drop, Heavy, Normal",198.0,85.0,27.0,27.0,120.0
+306,306,Type95,AR,Sustained,03:50:00,"Heavy, Normal",116.0,55.0,52.0,46.0,71.0
+307,307,EVO 3,SMG,Offtank,00:05:00,"Drop, Log-in Reward",194.0,23.0,13.0,68.0,93.0
+308,308,M590,SG,Main Tank,07:40:00,Heavy,264.0,32.0,11.0,10.0,31.0
+309,309,MT-9,SMG,Main Tank,00:05:00,Unknown,203.0,25.0,13.0,60.0,88.0
+310,310,M500,SG,Offtank,07:20:00,Heavy,264.0,31.0,11.0,10.0,29.0
+311,311,Ithaca M37,SG,Main Tank,07:45:00,Heavy,253.0,33.0,12.0,12.0,26.0
+312,312,M1887,SG,Main Tank,00:05:00,Event,275.0,39.0,12.0,12.0,22.0
+313,313,Shipka,SMG,Main Tank,02:18:00,"Drop, Heavy, Normal",168.0,24.0,14.0,79.0,95.0
+314,314,AEK-999,MG,Burst,06:20:00,"Heavy, Normal",165.0,89.0,29.0,28.0,32.0
+315,315,IWS-2000,RF,"Specialist, Sustained",04:52:00,"Heavy, Normal",88.0,162.0,78.0,29.0,32.0
+316,316,SSG 69,RF,Burst,00:05:00,Unknown,80.0,130.0,82.0,39.0,30.0
+317,317,G28,RF,Burst,04:20:00,"Drop, Event",88.0,119.0,80.0,29.0,39.0
+318,318,OTs-44,RF,Versatile,00:05:00,Unknown,80.0,157.0,67.0,32.0,28.0
+319,319,RO635,SMG,Main Tank,00:05:00,Clear 7-6,194.0,27.0,14.0,71.0,97.0
+320,320,Type59,HG,"Night,",00:05:00,Unknown,60.0,28.0,61.0,96.0,61.0
+321,321,Five-SeveN,HG,Versatile,00:05:00,Event,63.0,33.0,57.0,97.0,64.0
+322,322,USP Compact,HG,Versatile,00:28:00,Normal,66.0,24.0,60.0,86.0,65.0
+323,323,PSM,HG,Versatile,00:05:00,Unknown,57.0,24.0,67.0,112.0,58.0
+324,324,Bren Ten,HG,Versatile,00:28:00,"Drop, Normal",70.0,12.0,7.0,63.0,58.0
+325,325,6P62,AR,Burst,00:05:00,Event,121.0,69.0,37.0,33.0,54.0
+326,326,PP-19-01,SMG,Main Tank,02:18:00,"Heavy, Normal",194.0,27.0,13.0,68.0,85.0
+327,327,PP-19,SMG,Offtank,00:05:00,"Drop, Event",176.0,26.0,14.0,74.0,91.0
+328,328,SR-3MP,SMG,"Burst, Offtank",02:33:00,"Drop, Heavy, Normal",194.0,31.0,12.0,67.0,90.0
+329,329,AR70,AR,Versatile,00:05:00,"Event, Log-in Reward",110.0,50.0,44.0,41.0,71.0
+330,330,Type 63,AR,Sustained,02:45:00,"Normal, Map drop",99.0,51.0,40.0,40.0,73.0
+331,331,Lusa,SMG,Main Tank,00:05:00,Event,205.0,29.0,12.0,69.0,94.0
