@@ -102,7 +102,7 @@ Heavy, Normal",212,29,14,67,76
 62,M1014,SG,"Main Tank, Burst",07:14:00,"07:14:00
 
 Heavy",275,31,12,11,32
-63,AA-12,SG,"Main Tank, Burst",08:12:00,"08:12:00
+63,AA-12,SG,"Main Tank,  Burst",08:12:00,"08:12:00
 
 Heavy",269,30,12,11,39
 64,M200,RF,Sure Hit,04:32:00,"04:32:00
@@ -207,7 +207,7 @@ Heavy, Normal",256,37,15,13,31
 
 Normal",238,34,12,15,29
 121,LTLX-7000,SG,"Main Tank, Specialist",08:17:00,"08:17:00
- 
+
 Normal",275,23,14,11,28
 122,M6 ASW,SG,"Main Tank, Specialist",08:08:00,"08:08:00
 
@@ -218,8 +218,8 @@ Heavy",260,39,15,14,28
 
 Normal",380,31,64,89,58
 126,RPK-16,MG,"Burst, Sustained,",06:16:00,"06:16:00
-
- Normal",165,85,37,36,129
+ 
+Normal",165,85,37,36,129
 127,SAF,SMG,Offtank,02:10:00,"02:10:00
 
 Normal",900,25,14,69,99
@@ -236,7 +236,7 @@ Normal",900,25,14,69,99
 Normal",110,58,52,51,77
 137,C-MS,SMG,Main Tank,02:28:00,"02:28:00
 
-Heavy,  Normal",185,32,15,75,87
+ Heavy, Normal",185,32,15,75,87
 138,SRS,RF,Burst,,Event,87,135,82,35,35
 139,M1911,HG,Specialist,00:20:00,"00:20:00
 
@@ -262,7 +262,7 @@ Drop, Heavy, Normal",105,49,48,44,79
 Drop, Normal",105,50,44,43,66
 147,FNC,AR,"Burst, Sustained",03:20:00,"03:20:00
 
-Drop, Heavy, Normal",110,51,46,37,73
+Drop, Heavy,  Normal",110,51,46,37,73
 148,FAMAS,AR,Burst,03:30:00,"03:30:00
 
 Drop, Heavy, Normal",121,44,48,40,81
@@ -275,7 +275,7 @@ Drop, Heavy, Normal",121,51,46,44,76
 151,M249 SAW,MG,"Burst, Night",,Drop,157,79,35,36,139
 152,G36,AR,Sustained,03:40:00,"03:40:00
 
-Heavy, Normal",127,47,44,41,72
+Heavy,  Normal",127,47,44,41,72
 153,G3,AR,,02:50:00,"02:50:00
 
 Drop, Normal",110,55,46,38,61
@@ -452,7 +452,7 @@ Drop, Heavy, Normal",88,130,82,30,39
 
 Normal",80,111,58,28,40
 218,Kar98k,RF,Burst,04:40:00,"04:40:00
- 
+
 Heavy, Normal",84,135,78,41,34
 219,SV-98,RF,,03:40:00,"03:40:00
 
@@ -468,7 +468,7 @@ Drop, Heavy, Normal",93,159,75,29,28
 Normal",93,100,59,34,34
 223,Mosin-Nagant,RF,Bamboo (RF),04:10:00,"04:10:00
 
-Drop, Heavy,  Normal",88,131,85,38,30
+Drop, Heavy, Normal",88,131,85,38,30
 224,Skorpion,SMG,Offtank,02:00:00,"02:00:00
 
 Heavy, Normal",159,24,13,83,95
@@ -508,19 +508,19 @@ Drop, Normal",105,42,44,40,81
 238,RFB,AR,Sustained,03:58:00,"03:58:00
 
 Heavy, Normal",105,69,68,49,54
-239,T91,AR,"Burst,  Night",03:48:00,"03:48:00
+239,T91,AR,"Burst, Night",03:48:00,"03:48:00
 
 Normal, Heavy",124,51,44,46,76
 240,PzB39,RF,,,,84,148,71,31,32
 241,DSR-50,RF,,,,82,163,87,33,31
-242,F1,SMG,Main Tank,,"Drop, Heavy",212,26,14,60,79
+242,F1,SMG,Main Tank,,"Drop,  Heavy",212,26,14,60,79
 243,KLIN,SMG,"Offtank, Molotov",,Drop,190,25,11,74,95
 244,TMP,SMG,"Main Tank, Offtank",,Event,150,28,14,77,93
 245,ART556,AR,Burst,,Event,116,53,53,49,69
 246,Type81R,RF,"Night, Burst",,,75,123,79,41,32
 247,PKP,MG,Burst,06:50:00,"06:50:00
 
- Heavy, Normal",165,95,31,29,127
+Heavy, Normal",165,95,31,29,127
 248,Ribeyrolles,AR,"Specialist,",03:40:00,"03:40:00
 
 Normal",110,64,44,40,63
@@ -616,7 +616,7 @@ Heavy, Normal",182,84,34,34,139
 Heavy, Normal",121,43,44,41,95
 293,Mk48,MG,Burst,06:20:00,"06:20:00
 
-Heavy, Normal",174,90,25,26,112
+ Heavy, Normal",174,90,25,26,112
 294,ARX-160,AR,Burst,,"Drop, Event, Heavy",99,49,48,48,73
 295,9A-91,AR,"Night, Burst,",03:35:00,"03:35:00
 
@@ -686,7 +686,7 @@ Drop, Normal",70,12,7,63,58
 Heavy, Normal",194,27,13,68,85
 327,PP-19,SMG,Offtank,,"Drop, Event",176,26,14,74,91
 328,SR-3MP,SMG,"Burst, Offtank",02:33:00,"02:33:00
-
+ 
 Drop, Heavy, Normal",194,31,12,67,90
 329,AR70,AR,,,"Event, Log-in Reward",110,50,44,41,71
 330,Type 63,AR,Sustained,02:45:00,"02:45:00

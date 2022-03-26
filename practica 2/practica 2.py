@@ -20,6 +20,15 @@ for i in df1['Obtencion']:
         datoM = dato[10:]
         df1['Obtencion'] = df1['Obtencion'].replace([dato], datoM)
 
+#Redundancia en los roles por una coma
+df1.loc[df1['Rol_de_T-doll'] == '"Burst,"','Rol_de_Tdoll']='Burst'
+df1.loc[df1['Rol_de_T-doll'] == '"Burst, Sustained,"','Rol_de_Tdoll']='Burst, Sustained'
+df1.loc[df1['Rol_de_T-doll'] == '"Main Tank,"','Rol_de_Tdoll']='Main Tank'
+df1.loc[df1['Rol_de_T-doll'] == '"Night,"','Rol_de_Tdoll']='Night'
+df1.loc[df1['Rol_de_T-doll'] == '"Night, Burst,"','Rol_de_Tdoll']='Night, Burst'
+df1.loc[df1['Rol_de_T-doll'] == '"Specialist,"','Rol_de_Tdoll']='Specialist'
+df1.loc[df1['Rol_de_T-doll'] == '"Sustained,"','Rol_de_Tdoll']='Sustained'
+
 #Casos Unicos
 df1.loc[df1['Nombre_de_T-doll'] == 'LTLX-7000','Obtencion']='Normal'
 df1.loc[df1['Nombre_de_T-doll'] == 'Kar98K','Obtencion']='Heavy, Normal'
