@@ -9,4 +9,4 @@ https://www.kaggle.com/datasets/kitsunesantiago/list-of-tdolls-girlsfrontlineen-
 Como hobby, espero poder darle una mejor calificacion para uso despues
 
 Pd: El año de produccion y pais de origen fueron ingresados manualmente dado que en la pagina de 
-gamepress venia incomplenta, y por ende, muchos Nan y poco uso
+gamepress venia incompleta, y por ende, muchos Nan y poco uso
