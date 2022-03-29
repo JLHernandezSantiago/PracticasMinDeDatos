@@ -1,0 +1,333 @@
+Index_Tdoll,Name_T-doll,Gun-Type,Role_T-doll,Time_Production,Obtain_by,Health_Points,Damage,ACC,Evasion,R_o_F,Country_origin,Year_Prod
+1,SAA,HG,Damage Echelon Buffer,00:50:00,Normal,80,36,49,76,47,United States of America,1873
+2,Mk46,MG,Burst,00:05:00,Drop,162,78,34,36,142,United States of America,2003
+3,JS 9,SMG,Offtank,00:05:00,Event,180,27,15,86,89,China,2006
+4,MP-448,HG,Versatile,00:05:00,Log-in Reward,64,26,62,99,60,Russia,1998
+5,M82A1,RF,Versatile,00:05:00,Event,88,158,77,30,34,United States of America,1989
+6,A-91,AR,Versatile,00:05:00,Drop,113,52,50,37,75,Russia,1991
+7,Mk 12,RF,Burst,00:05:00,Drop,81,101,82,32,46,United States of America,2002
+8,Model L,AR,Sustained,00:05:00,Log-in Reward,110,50,45,41,73,Spain,1952
+9,P22,HG,"Specialist, Offtank",00:05:00,"Drop, Event",70,28,66,110,62,Germany,2002
+10,ADS,AR,"Specialist, Burst",03:55:00,Normal,121,50,54,45,78,Russia,2013
+11,AK-74U,SMG,Main Tank,00:05:00,Event,194,35,13,67,83,Russia,1974
+12,Python,HG,Specialist,00:05:00,Continuum Turbulence,70,40,81,82,49,United States of America,1955
+13,M870,SG,"Main Tank, Specialist",00:05:00,Drop,264,33,13,12,29,United States of America,1950
+14,MP-443,HG,Versatile,00:05:00,"Drop, Log-in Reward",70,33,53,71,59,Russia,2003
+15,Ballista,RF,Burst,00:05:00,Event,82,139,92,35,36,Belgium,1973
+16,Honey Badger,SMG,"Burst, Offtank",00:05:00,Event,198,33,13,60,82,United States of America,2013
+17,Thunder,HG,Versatile,00:05:00,Event,86,46,57,60,37,United States of America,2004
+18,RT-20,RF,Burst,00:05:00,Log-in Reward,90,158,78,28,27,Croatia,1993
+19,TEC-9,HG,Versatile,00:05:00,Log-in Reward,83,28,46,63,63,United States of America,1985
+20,K31,RF,Burst,04:15:00,"Heavy, Normal",78,126,78,37,39,Switzerland,1933
+21,K3,MG,Burst,00:05:00,Log-in Reward,165,78,30,35,134,South Korea,1989
+22,T-CMS,RF,Sustained,00:05:00,Log-in Reward,88,120,75,27,37,South Africa,2014
+23,P30,HG,Specialist,00:50:00,Normal,70,32,62,85,55,Germany,2006
+24,4 Shiki,RF,Sustained,04:04:00,Normal,84,112,74,37,39,Japan,1945
+25,R93,RF,Sustained,00:05:00,Event,81,133,97,34,39,Germany,1993
+26,HK33,AR,Sustained,00:05:00,Log-in Reward,105,49,51,46,73,Germany,1960
+27,PA-15,HG,"Specialist, Offtank",01:15:00,Normal,70,35,65,76,64,France,1966
+28,EM-2,AR,Burst,00:05:00,Normal,119,57,48,48,61,Britain,1951
+29,X95,SMG,Offtank,00:05:00,Drop,194,34,13,67,90,Israel,2005
+30,MG36,MG,Burst,00:05:00,Unknown,182,85,34,36,129,Germany,1997
+31,Magal,AR,Sustained,00:05:00,Log-in Reward,116,47,47,43,70,Israel,1998
+32,Steyr Scout,RF,Versatile,00:05:00,Log-in Reward,90,114,78,35,35,Austria,1999
+33,HS2000,HG,Specialist,00:05:00,Unknown,72,33,61,87,62,Croatia,1999
+34,UKM-2000,MG,Burst,00:05:00,"Drop, Event",169,90,26,26,115,Poland,2000
+35,Lewis Gun,MG,Sustained,00:05:00,Event,190,102,31,31,116,United States of America,1914
+36,KSVK,RF,Versatile,00:05:00,"Drop, Event",88,158,78,30,31,Russia,1998
+37,QJY-88,MG,Burst,06:28:00,"Heavy, Normal",165,86,33,35,126,China,1980
+38,El Clear,HG,Specialist,00:05:00,Event,66,31,62,88,61,(In Game),2020
+39,Elphelt,SG,Main Tank,00:05:00,Event,275,36,13,9,28,(In Game),2019
+40,Noel Vermillion,HG,Versatile,00:05:00,Unknown,60,39,60,82,65,(In Game),2018
+41,GSh-18,HG,Burst,00:05:00,Unknown,70,33,48,86,52,Russia,2000
+42,T77,SMG,Main Tank,00:05:00,Event,185,24,11,69,92,Taiwan,1985
+43,XM8,AR,Burst,03:25:00,"Heavy, Normal",108,48,46,42,79,United States of America,2008
+44,MDR,AR,Sustained,03:53:00,"Heavy, Normal",119,56,50,41,76,United States of America,2017
+45,SAR-21,AR,Sustained,03:25:00,"Heavy, Normal",116,44,46,38,80,Singapore,1999
+46,Jill Stingray,HG,Specialist,00:05:00,Event,80,30,53,96,55,(In Game),2019
+47,Px4 Storm,HG,Specialist,01:04:00,Normal,68,35,69,93,57,Italy,2004
+48,P90,SMG,"Specialist, Main Tank",02:29:00,"Heavy, Normal",190,30,15,83,93,Belgium,1990
+49,M1897,SG,"Oddball, DPS",07:30:00,Heavy,253,35,11,11,26,United States of America,1897
+50,FP-6,SG,Main Tank,08:06:00,Heavy,260,31,13,12,28,Italy,1998
+51,Dana Zane,SG,Main Tank,00:05:00,Event,269,38,15,13,26,(In Game),2019
+52,Alma Armas,MG,Burst,00:05:00,Event,195,89,31,23,129,(In Game),2018
+53,Stella Hoshii,RF,Burst,00:05:00,Event,90,117,84,36,35,(In Game),2019
+54,Dorothy Haze,SMG,"Main Tank, Offtank",00:05:00,Event,176,28,15,87,79,(In Game),2018
+55,Sei Asagiri,HG,Versatile,00:05:00,Event,85,30,59,77,53,(In Game),2018
+56,TAC-50,RF,Versatile,00:05:00,Event,87,155,83,31,32,United States of America,2000
+57,SPR A3G,RF,Versatile,04:15:00,"Heavy, Normal",87,130,83,31,35,United States of America,2004
+58,Jericho,HG,Versatile,00:49:00,Normal,76,31,50,64,60,Israel,1990
+59,64 Shiki,AR,"Burst, Specialist",04:06:00,"Heavy, Normal",125,67,62,43,63,Japan,1964
+60,K11,AR,Burst,04:11:00,"Heavy, Normal",135,53,54,37,76,South Korea,2010
+61,62 Shiki,MG,Burst,00:05:00,Log-in Reward,169,87,31,28,122,Japan,1962
+62,100 Shiki,SMG,Main Tank,02:19:00,"Heavy, Normal",212,29,14,67,76,Japan,1942
+63,M1014,SG,"Main Tank, Burst",07:14:00,Heavy,275,31,12,11,32,Italy,1999
+64,AA-12,SG,"Main Tank, Burst",08:12:00,Heavy,269,30,12,11,39,United States of America,2005
+65,M200,RF,Sure Hit,04:32:00,"Heavy, Normal",88,145,96,31,34,United States of America,2001
+66,M1895 CB,MG,Burst,00:05:00,"Drop, Event",190,90,26,23,131,United States of America,1895
+67,K5,HG,Versatile,00:53:00,Normal,66,29,52,81,62,South Korea,1989
+68,Steyr ACR,AR,DPS,04:08:00,Normal,124,46,45,42,91,Austria,1987
+69,AUG Para,SMG,"Main Tank, Offtank",00:05:00,Dual Randomness Crate Reward,185,29,15,83,88,Austria,1988
+70,Rex Zero 1,HG,Versatile,00:05:00,Normal,70,31,56,74,61,Slovenia,2010
+71,Defender,SG,"Burst, Specialist",00:05:00,Drop,247,38,13,17,27,United States of America,1967
+72,QSB-91,HG,Specialist,00:05:00,Log-in Reward,70,36,58,72,53,China,1990
+73,VSK-94,RF,Sustained,04:43:00,"Heavy, Normal",88,133,79,32,38,Russia,1994
+74,GM6 Lynx,RF,Burst,00:05:00,Log-in Reward,84,135,75,30,33,Hungary,1991
+75,C14,RF,Burst,00:05:00,Log-in Reward,93,128,77,29,32,Canada,2005
+76,Minos,SG,"Main Tank, Specialist",00:05:00,Event,286,39,12,11,24,(In Game),2018
+77,Medusa,AR,Versatile,00:05:00,Event,121,58,57,47,73,(In Game),2018
+78,Yurine,MG,Versatile,00:05:00,Event,182,93,29,24,128,(In Game),2020
+79,Jashin-Chan,SMG,Offtank,00:05:00,Event,204,26,13,75,81,(In Game),2018
+80,CAR,MG,Versatile,00:05:00,Log-in Reward,165,93,32,29,112,(In Game),2019
+81,RPK-203,MG,1st Volley,06:16:00,"Normal, Heavy",165,91,34,36,124,Soviet Union,1950
+82,PPD-40,SMG,"Support, Offtank",02:10:00,"Normal, Heavy",185,26,13,75,88,Soviet Union,1935
+83,FX-05,AR,Sustained,03:40:00,"Normal, Heavy",110,54,47,47,69,Mexico,2005
+84,AR-57,SMG,"Support, Offtank, Main Tank",02:16:00,"Normal, Heavy",183,26,14,74,92,United States of America,2016
+85,WKp,HG,Versatile,00:05:00,Login Reward,80,41,49,65,44,Germany,1939
+86,AUG ParaV.,SMG,Versatile,00:05:00,Unknown,190,30,10,80,90,Austria,1988
+87,PM1910,MG,1st Volley,00:05:00,Dual Randomness Clear 3-1 Ghost Sisters Infinity Map Drop,190,90,27,25,104,Russia,1910
+88,Mondragon M1908,RF,Support,00:05:00,Dual Ranmdoness E2-1 Pollinosis Infinity Map Drop,84,112,74,34,41,Mexico,1908
+89,VHS,AR,Sustained,00:05:00,Event,116,57,54,47,78,Croatia,2005
+90,General Liu,RF,"Generalist, Support",00:05:00,Dual Randomness,80,139,88,30,40,China,1914
+91,Pekola,RF,Versatile,00:05:00,Event,88,126,80,40,37,(In Game),2018
+92,De Lisle,RF,Versatile,05:00:00,Normal,102,109,87,38,37,Britain,1943
+93,Falcon,RF,Specialist,00:05:00,Log-in Reward,88,140,71,28,32,Czech Republic,1998
+94,Six12,SG,Versatile,00:05:00,"Event, Log-in Reward",242,34,13,13,30,United States of America,2016
+95,Zas M76,RF,Versatile,00:05:00,Log-in Reward,84,110,78,35,37,Yugoslavia,1976
+96,SL8,RF,Versatile,00:05:00,Event,85,120,78,39,41,Germany,1998
+97,Agent Vector,SMG,Main Tank,00:05:00,Event,185,30,11,71,101,United States of America,2006
+98,Agent 416,AR,Burst,00:05:00,Event,121,51,46,44,76,Germany,2004
+99,MAT-49,SMG,Versatile,00:05:00,Unknown,185,29,14,73,88,France,1949
+100,Liberator,SG,Versatile,00:05:00,Heavy,231,36,12,15,30,United States of America,1962
+101,CAWS,SG,Specialist,00:05:00,Heavy,247,30,12,13,35,Germany,1980
+102,DP-12,SG,Main Tank,08:13:00,Heavy,252,31,13,13,30,United States of America,2015
+103,Type64,SMG,Offtank,01:25:00,"Heavy, Normal",176,27,11,65,93,China,1964
+104,ZB-26,MG,Sustained,06:26:00,Normal,182,100,30,31,116,Czechoslovakia,1926
+105,Triela,SG,Main Tank,00:05:00,Event,253,37,12,12,26,(In Game),2020
+106,Claes,MG,Specialist,00:05:00,Event,157,79,35,36,139,(In Game),2018
+107,Rico,RF,Sustained,00:05:00,Event,80,130,80,33,37,(In Game),2019
+108,Henrietta,SMG,Main Tank,00:05:00,Event,190,30,15,83,93,(In Game),2019
+109,Angelica,AR,Burst,00:05:00,Event,121,55,57,46,75,Austria,1989
+110,C-93,HG,Versatile,01:09:00,Normal,63,33,62,98,64,Germany,1894
+111,KAC-PDW,SMG,Main Tank,02:20:00,"Heavy, Normal",180,33,14,71,81,United States of America,2006
+112,CR-21,AR,Sustained,03:35:00,"Heavy, Normal",110,48,52,43,81,South Africa,1997
+113,SIG-556,AR,Burst,03:54:00,"Heavy, Normal",121,53,46,45,76,Switzerland,1990
+114,AK-Alfa,AR,Sustained,03:56:00,Normal,116,56,53,52,75,United States of America,2010
+115,Tabuk,RF,Sustained,04:25:00,Normal,84,115,81,36,39,Iraq,1978
+116,SVCh,RF,"Oddball, Damage/FP Self-Buffer",04:47:00,Normal,87,144,97,30,35,Russia,2016
+117,Howa 89,AR,Sustained,04:08:00,Normal,140,50,55,30,80,Japan,1989
+118,Mas-38,SMG,Versatile,00:05:00,Log-in Reward,190,26,13,72,83,France,1938
+119,SUB-2000,SMG,Offtank,00:05:00,Log-in Reward,194,27,13,66,84,United States of America,2001
+120,512,SG,Offtank,07:56:00,"Heavy, Normal",256,37,15,13,31,Italy,1980
+121,PM5,SG,Main Tank,07:11:00,Normal,238,34,12,15,29,Italy,1980
+122,LTLX-7000,SG,"Main Tank, Specialist",08:17:00,Normal,275,23,14,11,28,Italy,2006
+123,M6 ASW,SG,"Main Tank, Specialist",08:08:00,Heavy,260,39,15,14,28,United States of America,1952
+124,TS12,SG,Main Tank,00:05:00,Log-in Reward,242,34,13,11,30,Israel,2018
+125,StG-940,AR,Sustained,00:05:00,Log-in Reward,110,50,49,44,69,Germany,1988
+126,HP-35,HG,Night,01:35:00,Normal,380,31,64,89,58,Belgium,1935
+127,RPK-16,MG,"Burst, Sustained",06:16:00,Normal,165,85,37,36,129,Russia,2016
+128,SAF,SMG,Offtank,02:10:00,Normal,900,25,14,69,99,Chile,1993
+129,43M,SMG,Main Tank,00:05:00,Unknown,185,30,13,56,89,Hungary,1939
+130,R5,AR,Sustained,00:05:00,Unknown,124,55,54,46,76,United States of America,2010
+131,W - April Fools,AR,Burst,00:05:00,Event,113,52,51,46,79,(In Game),2018
+132,Amiya - April Fools,AR,Burst,00:05:00,Event,113,50,50,50,80,(In Game),2018
+133,Exusai-April Fools,SMG,"Offtank, Burst",00:05:00,Event,185,30,11,71,101,(In Game),2018
+134,CF05,SMG,Offtank,00:05:00,Drop,190,26,13,73,87,China,2005
+135,M82,AR,Burst,00:05:00,Drop,113,51,45,46,75,Finland,1986
+136,Webley,HG,Versatile,00:05:00,Event,86,29,66,81,57,Britain,1887
+137,AK-15,AR,Burst,04:15:00,Normal,110,58,52,51,77,Russia,2018
+138,C-MS,SMG,Main Tank,02:28:00," Heavy, Normal",185,32,15,75,87,Sweden,2000
+139,SRS,RF,Burst,00:05:00,Event,87,135,82,35,35,United States of America,2008
+140,M1911,HG,Specialist,00:20:00,Normal,73,27,50,74,57,United States of America,1911
+141,Type56-1,AR,Grenadier,03:25:00,"Heavy, Normal",138,53,35,35,69,China,1956
+142,M2HB,MG,Burst,06:10:00,"Heavy, Normal",207,102,18,16,100,United States of America,1933
+143,M1918 BAR,MG,Burst,06:25:00,"Drop, Heavy, Normal",157,96,31,33,114,United States of America,1918
+144,SIG-510,AR,Burst,02:40:00,"Drop, Normal",116,56,41,37,59,Switzerland,1957
+145,AUG,AR,Sustained,00:05:00,Event,121,55,57,46,75,Austria,1978
+146,TAR-21,AR,Burst,03:30:00,"Drop, Heavy, Normal",105,49,48,44,79,Israel,2006
+147,Galil,AR,"Sustained, Oddball",02:40:00,"Drop, Normal",105,50,44,43,66,Israel,1975
+148,FNC,AR,"Burst, Sustained",03:20:00,"Drop, Heavy,  Normal",110,51,46,37,73,Belgium,1979
+149,FAMAS,AR,Burst,03:30:00,"Drop, Heavy, Normal",121,44,48,40,81,France,1970
+150,L85A1,AR,Burst,02:50:00,"Drop, Normal",94,46,43,43,78,United Kingdom,1987
+151,416,AR,Burst,03:55:00,"Drop, Heavy, Normal",121,51,46,44,76,Germany,2004
+152,M249 SAW,MG,"Burst, Night",00:05:00,Drop,157,79,35,36,139,United States of America,1976
+153,G36,AR,Sustained,03:40:00,"Heavy,  Normal",127,47,44,41,72,Germany,1997
+154,G3,AR,Versatile,02:50:00,"Drop, Normal",110,55,46,38,61,Germany,1977
+155,G41,AR,"Sustained, Damage/FP Self-Buffer",04:05:00,"Heavy, Normal",127,50,48,40,77,Germany,1981
+156,StG44,AR,Burst,03:00:00,"Heavy, Normal",127,53,46,36,61,Germany,1944
+157,AS Val,AR,"Night, Burst",03:30:00,"Drop, Heavy, Normal",132,39,46,49,75,Soviet Union,1987
+158,AK-47,AR,Burst,03:20:00,"Heavy, Normal",132,53,35,34,65,Soviet Union,1949
+159,ST AR-15,AR,Sustained,00:05:00,Unknown,105,48,50,50,77,United States of America,1965
+160,M4 SOPMOD II,AR,Grenadier,00:05:00,Unknown,110,50,49,44,78,United States of America,2018
+161,M4A1,AR,Damage/FP Self-Buffer,00:05:00,Completing 2-6,110,46,48,48,79,United States of America,1994
+162,M60,MG,"Burst, Night",06:10:00,"Drop, Heavy, Normal",182,92,26,26,111,United States of America,1957
+163,M1919A4,MG,Burst,05:40:00,"Heavy, Normal",182,96,26,22,99,United States of America,1919
+164,NTW-20,RF,Versatile,04:45:00,"Heavy, Normal",93,165,75,29,30,South Africa,1990
+165,Type88,RF,"Night, Burst",03:50:00,"Heavy, Normal",102,108,60,37,31,China,1895
+166,G36C,SMG,Main Tank,02:30:00,"Heavy, Normal",203,32,13,65,83,Germany,1997
+167,UMP45,SMG,Main Tank,02:15:00,"Drop, Heavy, Normal",185,28,13,74,82,Germany,1999
+168,UMP40,SMG,"Sustained, Main Tank",00:05:00,Heavy,180,27,14,75,85,Germany,1999
+169,UMP9,SMG,Main Tank,02:15:00,"Drop, Heavy, Normal",176,26,14,76,87,Germany,1999
+170,P7,HG,Versatile,00:55:00,"Drop, Normal",63,32,62,83,61,Germany,1979
+171,Mk23,HG,Night,00:50:00,"Drop, Normal",80,29,53,66,63,Germany,1991
+172,SPP-1,HG,Main Tank,00:05:00,Event,76,35,61,75,48,Soviet Union,1969
+173,Calico M950A,HG,Versatile,01:05:00,Normal,76,30,55,68,72,United States of America,1990
+174,Grizzly,HG,Versatile,01:10:00,Normal,86,38,51,66,54,United States of America,1980
+175,IDW,SMG,Main Tank,01:10:00,"Drop, Normal",150,26,15,85,75,Britain,1989
+176,LWMMG,MG,Burst,05:10:00,Drop,174,95,24,22,90,United States of America,2012
+177,Spectre-M4,SMG,Main Tank,01:20:00,"Drop, Normal",176,25,12,66,88,Italy,1985
+178,MP-446,HG,Versatile,00:25:00,Normal,66,30,53,74,59,Russia,2003
+179,FNP9,HG,Versatile,00:25:00,Normal,60,28,53,83,61,United States of America,2006
+180,Bren,MG,Burst,05:20:00,"Heavy, Normal",174,89,31,28,102,United Kingdom,1930
+181,MG3,MG,Burst,06:30:00,"Heavy, Normal",198,85,26,21,130,Germany,1959
+182,MG34,MG,Burst,05:00:00,"Drop, Normal",165,85,22,25,120,Germany,1934
+183,MG42,MG,Burst,05:50:00,"Heavy, Normal",165,92,23,26,132,Germany,1942
+184,PK,MG,Burst,06:30:00,"Drop, Heavy, Normal",190,96,21,23,84,Soviet Union,1961
+185,RPD,MG,Burst,00:05:00,Unknown,165,82,34,34,121,Soviet Union,1944
+186,DP28,MG,Burst,05:00:00,"Heavy, Normal",141,88,28,31,114,Soviet Union,1928
+187,M16A1,AR,Specialist,00:05:00,Career Reward,121,47,46,44,75,United States of America,1969
+188,VM59,RF,Burst,03:20:00,"Heavy, Normal",97,104,52,25,38,Italy,1959
+189,FAL,AR,Burst,03:45:00,"Heavy, Normal",132,57,43,38,72,Belgium,1947
+190,Astra,HG,Versatile,00:40:00,Normal,80,33,45,68,52,Spain,1971
+191,PP-90,SMG,Main Tank,02:20:00,"Heavy, Normal",159,25,13,86,96,Russia,1990
+192,PPS-43,SMG,Offtank,02:10:00,"Heavy, Normal",176,33,13,65,74,Soviet Union,1943
+193,PPSh-41,SMG,Offtank,01:50:00,"Heavy, Normal",194,26,11,56,93,Soviet Union,1941
+194,Vector,SMG,Offtank,02:35:00,"Drop, Heavy, Normal",185,30,11,71,101,United States of America,2007
+195,FMG-9,SMG,Main Tank,00:05:00,Drop,141,26,13,90,92,United States of America,2008
+196,Ingram,SMG,Main Tank,02:00:00,"Heavy, Normal",176,28,11,68,91,United States of America,1970
+197,M3,SMG,Offtank,01:30:00,"Drop, Normal",185,30,13,67,68,United States of America,1943
+198,Thompson,SMG,"Main Tank, Specialist",02:30:00,Heavy,238,31,12,56,82,United States of America,1928
+199,G17,HG,Versatile,00:05:00,Drop,63,29,58,87,61,Austria,1988
+200,Type 92,HG,Versatile,00:35:00,Normal,63,31,46,80,61,China,1994
+201,MP40,SMG,"Offtank, Molotov",01:30:00,"Drop, Normal",185,29,13,58,76,Germany,1938
+202,C96,HG,Versatile,00:30:00,Normal,83,29,41,61,62,Germany,1896
+203,P08,HG,Versatile,00:30:00,"Drop, Normal",70,31,46,80,55,Germany,1900
+204,PPK,HG,Versatile,00:22:00,Normal,57,25,59,100,63,Germany,1931
+205,P38,HG,Versatile,00:20:00,Normal,66,28,49,81,57,Germany,1939
+206,Makarov,HG,Main Tank,00:40:00,Normal,63,26,61,96,61,Soviet Union,1951
+207,Stechkin,HG,Versatile,00:55:00,Normal,83,28,44,66,65,Soviet Union,1951
+208,Tokarev,HG,Debuffer,00:45:00,"Drop, Normal",86,31,47,66,52,Soviet Union,1930
+209,M1895 Nagant Revolver,HG,Debuffer,00:20:00,"Drop, Normal",70,32,46,92,44,Belgium,1895
+210,M9,HG,Specialist,00:40:00,"Drop, Normal",76,29,56,66,61,Italy,1985
+211,PP-2000,SMG,Offtank,01:10:00,Normal,159,30,11,74,80,Russia,2004
+212,MP5,SMG,Force Shield,02:20:00,"Heavy, Normal",168,30,13,68,89,Germany,1960
+213,FN49,RF,Burst,03:10:00,Normal,93,111,61,32,32,Belgium,1949
+214,SVT-38,RF,Versatile,03:30:00,"Heavy, Normal",84,110,59,34,34,Soviet Union,1938
+215,Lee-Enfield,RF,Sustained,05:00:00,"Heavy, Normal",80,135,78,40,36,United Kingdom,1895
+216,Type56R,RF,Versatile,00:05:00,"Drop, Event",93,103,65,36,36,China,1956
+217,WA2000,RF,Burst,04:50:00,"Drop, Heavy, Normal",88,130,82,30,39,Germany,1982
+218,G43,RF,"Night, Burst",03:10:00,Normal,80,111,58,28,40,Germany,1943
+219,Kar98k,RF,Burst,04:40:00,"Heavy, Normal",84,135,78,41,34,Germany,1935
+220,SV-98,RF,Versatile,03:40:00,"Heavy, Normal",84,122,74,28,37,Russia,1998
+221,SVD,RF,Burst,04:15:00,"Heavy, Normal",80,130,80,33,37,Soviet Union,1958
+222,PTRD,RF,Versatile,04:30:00,"Drop, Heavy, Normal",93,159,75,29,28,Soviet Union,1941
+223,SKS,RF,Burst,03:30:00,Normal,93,100,59,34,34,Soviet Union,1945
+224,Mosin-Nagant,RF,Bamboo (RF),04:10:00,"Drop, Heavy, Normal",88,131,85,38,30,Russia,1891
+225,Skorpion,SMG,Offtank,02:00:00,"Heavy, Normal",159,24,13,83,95,Czechoslovakia,1959
+226,M21,RF,Versatile,00:05:00,Drop,93,118,74,27,35,United States of America,1968
+227,M14,RF,Burst,03:40:00,"Heavy, Normal",84,108,71,27,43,United States of America,1959
+228,Springfield,RF,Versatile,04:25:00,"Drop, Heavy, Normal",84,128,72,40,32,United States of America,1903
+229,M1A1,RF,Sustained,00:05:00,Drop,84,95,77,42,38,United States of America,1974
+230,M1 Garand,RF,Versatile,04:00:00,"Heavy, Normal",88,120,62,28,37,United States of America,1936
+231,m45,SMG,Main Tank,01:20:00,"Heavy, Normal",185,30,12,62,74,Sweden,1945
+232,Micro Uzi,SMG,Offtank,01:40:00,"Heavy, Normal",159,24,11,79,104,Israel,1950
+233,M38,SMG,Main Tank,01:30:00,"Drop, Normal",203,32,12,52,75,Italy,1938
+234,STEN MkII,SMG,"Main Tank, Offtank",01:40:00,"Heavy, Normal",185,26,15,75,78,Britain,1942
+235,MP7,SMG,Versatile,02:18:00,"Event, Heavy",198,30,13,69,91,Germany,2001
+236,OTs-12,AR,Sustained,03:10:00,"Drop, Heavy, Normal",105,42,54,54,72,Russia,1993
+237,F2000,AR,"Sustained, Damage/FP Self-Buffer",02:45:00,"Drop, Normal",105,42,44,40,81,Belgium,2001
+238,CZ-52,HG,Versatile,00:05:00,"Drop, Event, Log-in Reward",76,33,50,68,53,Czechoslovakia,1952
+239,RFB,AR,Sustained,03:58:00,"Heavy, Normal",105,69,68,49,54,United States of America,2008
+240,T91,AR,"Burst, Night",03:48:00,"Normal, Heavy",124,51,44,46,76,Taiwan,2003
+241,PzB39,RF,Versatile,00:05:00,Unknown,84,148,71,31,32,Germany,1939
+242,DSR-50,RF,Versatile,00:05:00,Unknown,82,163,87,33,31,Germany,2003
+243,F1,SMG,Main Tank,00:05:00,"Drop,  Heavy",212,26,14,60,79,Australia,1963
+244,KLIN,SMG,"Offtank, Molotov",00:05:00,Drop,190,25,11,74,95,Russia,1994
+245,TMP,SMG,"Main Tank, Offtank",00:05:00,Event,150,28,14,77,93,Austria,1992
+246,ART556,AR,Burst,00:05:00,Event,116,53,53,49,69,Brazil,2012
+247,Type81R,RF,"Night, Burst",00:05:00,Unknown,75,123,79,41,32,China,1981
+248,PKP,MG,Burst,06:50:00,"Heavy, Normal",165,95,31,29,127,Russia,2001
+249,Ribeyrolles,AR,Specialist,03:40:00,Normal,110,64,44,40,63,France,1918
+250,Contender,HG,Versatile,01:02:00,Normal,66,46,85,82,44,United States of America,1967
+251,ASh-12.7,AR,Sustained,00:05:00,Event,110,65,41,36,59,Russia,2010
+252,SCW,SMG,"Offtank, Oddball",00:05:00,Drop,168,30,12,68,91,United States of America,2018
+253,Spitfire,HG,Versatile,00:52:00,Normal,70,33,60,71,55,Britain,1991
+254,Gr HK45,HG,Versatile,00:05:00,Log-in Reward,66,34,58,80,55,Germany,2006
+255,CZ75,HG,Versatile,00:05:00,Event,66,34,62,74,66,Czechoslovakia,1976
+256,SPAS-12,SG,Main Tank,07:40:00,Heavy,275,33,11,9,32,Italy,1979
+257,Type 97S,SG,DPS,00:05:00,Obtained from crafting 10 Heavy T-Doll Production,264,33,12,13,27,China,1997
+258,Saiga-12,SG,Main Tank,08:05:00,Heavy,264,29,12,11,35,Russia,1997
+259,RMB-93,SG,Main Tank,07:30:00,Heavy,242,30,11,13,25,Russia,1993
+260,wz.29,RF,Burst,00:05:00,"Drop, Event, Log-in Reward",97,113,65,33,32,Poland,1930
+261,T-5000,RF,Burst,04:10:00,"Heavy, Normal",90,126,85,28,36,Russia,2011
+262,KSG,SG,Main Tank,08:00:00,Heavy,253,29,13,12,30,United States of America,2011
+263,Carcano M1891,RF,Support,04:38:00,"Heavy, Normal",80,138,85,42,35,Italy,1891
+264,OTs-39,SMG,Main Tank,00:05:00,Unknown,190,27,14,72,74,Russia,1999
+265,HMG21,MG,Versatile,00:05:00,Event,169,92,29,33,135,Germany,1961
+266,CZ2000,AR,Sustained,00:05:00,"Drop, Event",110,48,44,46,78,Czechoslovakia,1991
+267,AK-12,AR,"Sustained, Burst",04:12:00,Normal,110,56,62,52,74,Russia,2018
+268,AN-94,AR,Sustained,04:09:00,"Heavy, Normal",116,55,67,48,76,Russia,1994
+269,Gepard M1,RF,Versatile,00:05:00,Unknown,88,143,77,28,30,Hungary,1991
+270,XM3,RF,"Night, Burst",00:05:00,Drop,82,130,90,32,35,United States of America,2005
+271,Type 80,MG,Burst,06:15:00,"Heavy, Normal",174,93,26,24,37,China,1983
+272,Carcano M91/38,RF,Specialist,04:42:00,"Heavy, Normal",73,146,90,44,30,Italy,1891
+273,Zas M21,AR,Versatile,04:05:00,"Heavy, Normal",121,55,48,41,74,Serbia,2004
+274,Ameli,MG,Burst,06:25:00,Normal,141,83,38,42,149,Spain,1982
+275,MG23,MG,Burst,00:05:00,Log-in Reward,149,80,34,34,135,Germany,1959
+276,K2,AR,Burst,03:52:00,"Heavy, Normal",127,50,51,42,78,South Korea,1985
+277,JS05,RF,Versatile,00:05:00,Event,90,158,88,32,31,China,2000
+278,M12,SMG,Offtank,00:05:00,Unknown,203,26,5,64,76,Italy,1959
+279,NS2000,SG,Main Tank,07:15:00,Heavy,253,33,12,11,31,South Africa,2001
+280,USAS-12,SG,"Main Tank, Burst",07:55:00,Heavy,260,29,11,10,37,South Korea,1989
+281,S.A.T.8,SG,"Main Tank, Specialist",08:10:00,Heavy,282,29,13,12,33,Italy,2000
+282,AK5,AR,"Burst, Sustained",00:05:00,Drop,116,51,48,38,75,Sweden,1986
+283,P226,HG,Versatile,00:05:00,"Drop, Event, Log-in Reward",73,29,58,63,61,Germany,1984
+284,KS-23,SG,Main Tank,07:25:00,Heavy,275,40,9,10,25,Soviet Union,1971
+285,Super-Shorty,SG,Main Tank,07:50:00,Heavy,242,28,14,19,30,United States of America,1996
+286,CZ-805,AR,Burst,00:05:00,Drop,116,43,49,41,75,Czech Republic,2011
+287,OTs-14,AR,"Night, Burst",00:05:00,Event,110,49,54,54,75,Russia,1990
+288,M99,RF,Versatile,04:55:00,"Heavy, Normal",88,157,81,32,32,China,2005
+289,Type 79,SMG,Main Tank,02:35:00,"Heavy, Normal",194,32,12,70,88,China,1983
+290,NZ75,HG,Debuffer,01:05:00,Normal,73,33,62,74,63,China,1975
+291,MG4,MG,Burst,06:40:00,"Heavy, Normal",182,84,34,34,139,Germany,2001
+292,P99,HG,Versatile,00:35:00,Normal,60,31,56,87,61,Germany,1997
+293,G11,AR,"Burst, Multi-hit",04:04:00,"Heavy, Normal",121,43,44,41,95,Germany,1960
+294,Mk48,MG,Burst,06:20:00," Heavy, Normal",174,90,25,26,112,United States of America,2003
+295,ARX-160,AR,Burst,00:05:00,"Drop, Event, Heavy",99,49,48,48,73,Italy,2009
+296,9A-91,AR,"Night, Burst",03:35:00,"Drop, Heavy, Normal",116,42,49,50,78,Russia,1994
+297,Type97,AR,Sustained,03:50:00,"Heavy, Normal",116,54,51,46,72,China,1997
+298,PSG-1,RF,Versatile,00:05:00,Unknown,93,120,73,26,39,Germany,1972
+299,Z-62,SMG,Offtank,00:05:00,Unknown,168,28,15,77,77,Spain,1962
+300,Suomi,SMG,Main Tank,02:25:00,"Heavy, Normal",220,28,15,56,93,Finland,1931
+301,Welrod MKII,HG,"Support, Debuffer",01:00:00,Normal,80,28,71,90,52,Britain,1942
+302,Serdyukov,HG,Versatile,00:05:00,Unknown,70,33,58,68,58,Russia,2003
+303,Negev,MG,"Burst, Specialist",06:35:00,"Heavy, Normal",174,84,35,36,139,Israel,1977
+304,AAT-52,MG,Burst,04:50:00,"Heavy, Normal",182,79,24,22,119,France,1952
+305,FG42,MG,Burst,04:50:00,"Heavy, Normal",149,87,28,33,121,Germany,1942
+306,MG5,MG,Burst,06:45:00,"Drop, Heavy, Normal",198,85,27,27,120,Germany,2015
+307,Type95,AR,Sustained,03:50:00,"Heavy, Normal",116,55,52,46,71,China,1995
+308,EVO 3,SMG,Offtank,00:05:00,"Drop, Log-in Reward",194,23,13,68,93,Czech Republic,2009
+309,M590,SG,Main Tank,07:40:00,Heavy,264,32,11,10,31,United States of America,1961
+310,MT-9,SMG,Main Tank,00:05:00,Unknown,203,25,13,60,88,Brazil,2011
+311,M500,SG,Offtank,07:20:00,Heavy,264,31,11,10,29,United States of America,1960
+312,Ithaca M37,SG,Main Tank,07:45:00,Heavy,253,33,12,12,26,United States of America,1937
+313,M1887,SG,Main Tank,00:05:00,Event,275,39,12,12,22,United States of America,1887
+314,Shipka,SMG,Main Tank,02:18:00,"Drop, Heavy, Normal",168,24,14,79,95,Brazil,1996
+315,AEK-999,MG,Burst,06:20:00,"Heavy, Normal",165,89,29,28,32,Russia,2008
+316,IWS-2000,RF,"Specialist, Sustained",04:52:00,"Heavy, Normal",88,162,78,29,32,Austria,1980
+317,SSG 69,RF,Burst,00:05:00,Unknown,80,130,82,39,30,Austria,1969
+318,G28,RF,Burst,04:20:00,"Drop, Event",88,119,80,29,39,Germany,2017
+319,OTs-44,RF,Versatile,00:05:00,Unknown,80,157,67,32,28,Russia,1990
+320,RO635,SMG,Main Tank,00:05:00,Clear 7-6,194,27,14,71,97,United States of America,1982
+321,Type59,HG,Night,00:05:00,Unknown,60,28,61,96,61,China,1959
+322,Five-SeveN,HG,Versatile,00:05:00,Event,63,33,57,97,64,Belgium,1998
+323,USP Compact,HG,Versatile,00:28:00,Normal,66,24,60,86,65,Germany,1993
+324,PSM,HG,Versatile,00:05:00,Unknown,57,24,67,112,58,Soviet Union,1973
+325,Bren Ten,HG,Versatile,00:28:00,"Drop, Normal",70,12,7,63,58,United States of America,1983
+326,6P62,AR,Burst,00:05:00,Event,121,69,37,33,54,Russia,2007
+327,PP-19-01,SMG,Main Tank,02:18:00,"Heavy, Normal",194,27,13,68,85,Russia,2004
+328,PP-19,SMG,Offtank,00:05:00,"Drop, Event",176,26,14,74,91,Russia,1993
+329,SR-3MP,SMG,"Burst, Offtank",02:33:00,"Drop, Heavy, Normal",194,31,12,67,90,Russia,1995
+330,AR70,AR,Versatile,00:05:00,"Event, Log-in Reward",110,50,44,41,71,Italy,1972
+331,Type 63,AR,Sustained,02:45:00,"Normal, Map drop",99,51,40,40,73,China,1963
+332,Lusa,SMG,Main Tank,00:05:00,Event,205,29,12,69,94,Portugal,1983
