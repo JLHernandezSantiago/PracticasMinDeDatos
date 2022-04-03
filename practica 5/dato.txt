@@ -1,0 +1,17 @@
+PS C:\Users\Joséluis\Documents\Python_practicas> & C:/Users/Joséluis/AppData/Local/Programs/Python/Python310/python.ex
+e "c:/Users/Joséluis/Documents/Python_practicas/practica 5/practica 5.py"
+Traceback (most recent call last):
+  File "c:\Users\Joséluis\Documents\Python_practicas\practica 5\practica 5.py", line 3, in <module>
+    from scipy import stats
+  File "C:\Users\Joséluis\AppData\Local\Programs\Python\Python310\lib\site-packages\scipy\stats\__init__.py", line 468,
+ in <module>
+    from ._rvs_sampling import rvs_ratio_uniforms, NumericalInverseHermite  # noqa
+  File "C:\Users\Joséluis\AppData\Local\Programs\Python\Python310\lib\site-packages\scipy\stats\_rvs_sampling.py", line
+ 3, in <module>
+    from ._unuran import unuran_wrapper
+  File "unuran_wrapper.pyx", line 221, in init scipy.stats._unuran.unuran_wrapper
+  File "unuran_wrapper.pyx", line 200, in scipy.stats._unuran.unuran_wrapper._setup_unuran
+  File "messagestream.pyx", line 36, in scipy._lib.messagestream.MessageStream.__cinit__
+OSError: Failed to open file b'C:\\Users\\Jos\xc3\xa9luis\\AppData\\Local\\Temp\\scipy-yy1btad9'
+
+Es el problema que surge al correr el programa
