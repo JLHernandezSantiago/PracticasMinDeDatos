@@ -6,7 +6,6 @@
 #vayan a ser del mismo tipo (AR/SMG/MG/SG/HG/RF) a las mas recientes producidas en
 # la vida real/añadidas en el juego como originales
 
-#PRCATICA 6 - REGRESIÓN LINEAL
 # Tratamiento de datos
 # ==============================================================================
 import pandas as pd
